@@ -38,6 +38,7 @@
 
 ## C 
 
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台命令行换源工具
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform asynchronous C framework, including a lot of components and a new coroutine script language Melang.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
@@ -56,6 +57,7 @@
 
 ## CSS 
 
+- [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth) - 希腊神话读书笔记
 - [emacs-china/Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
 - [Soanguy/typora-theme-autumnus](https://github.com/Soanguy/typora-theme-autumnus) - Typora theme for 中文
@@ -100,6 +102,7 @@
 
 ## Java 
 
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
 - [reginacannotcode/algo_and_ds](https://github.com/reginacannotcode/algo_and_ds) - 
 - [elunez/eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 - [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
@@ -171,6 +174,7 @@
 
 ## Others 
 
+- [datawhalechina/key-book](https://github.com/datawhalechina/key-book) - 《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。
 - [sty945/bank_interview](https://github.com/sty945/bank_interview) - :bank: 银行笔试面试经验分享及资料分享（help you pass the bank interview, and get a amazing bank offer!）
 - [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
