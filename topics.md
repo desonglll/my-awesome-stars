@@ -545,7 +545,7 @@
 - [wzpan/hexo-generator-search](https://github.com/wzpan/hexo-generator-search) - A plugin to generate search data for Hexo.
 - [KelvinQiu802/project-ideas](https://github.com/KelvinQiu802/project-ideas) - 集合优质的项目仓库，找到适合你的项目。
 - [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 🎨 This is the repo for vuepress-theme-reco 2.
-- [xx025/yanx](https://github.com/xx025/yanx) - yanx：研招网硕士招生目录下载
+- [xx025/yanx](https://github.com/xx025/yanx) - yanx：研招网硕士招生目录下载工具
 - [Hthing/yzw](https://github.com/Hthing/yzw) - scrapy爬取研招网专业信息
 - [inyscc/MathFormula](https://github.com/inyscc/MathFormula) - 考研数学公式简单集合
 - [ChemLez/xmcTiaoJiInformation_Pachong](https://github.com/ChemLez/xmcTiaoJiInformation_Pachong) - 爬虫。考研调剂信息。主要爬取小木虫网站的调剂信息。可以爬取任何年份，任何专业的调剂信息。爬取内容包括：标题，学校名称，专业、招生人数、发布时间、学校发布调剂的网页链接。主要用到的库:BeautifulSoup,requests,re。
