@@ -83,6 +83,7 @@
 - [pytorch](#pytorch)
 - [raspberry-pi](#raspberry-pi)
 - [reactjs](#reactjs)
+- [robotics](#robotics)
 - [rust](#rust)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
@@ -622,6 +623,10 @@
 
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
+
+## robotics 
+
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
 
 ## rust 
 
