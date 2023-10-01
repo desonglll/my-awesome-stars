@@ -267,6 +267,7 @@
 
 ## github 
 
+- [maxiaof/github-hosts](https://github.com/maxiaof/github-hosts) - 通过修改Hosts解决国内Github经常抽风访问不到,每日更新
 - [Licoy/fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~
 
 ## go 
