@@ -51,6 +51,7 @@
 
 ## C++ 
 
+- [samaritanhu/ecnu-courses](https://github.com/samaritanhu/ecnu-courses) - 华东师范大学计算数学 与 上海交通大学金融学 课程ppt备份
 - [hao14293/2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408) - 💯✍备考2021年研究生-408
 - [CodePanda66/CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408) - 💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源
 - [Noob-Dream/cskaoyan](https://github.com/Noob-Dream/cskaoyan) - 计算机考研国家线 计算机考研需要考哪些科目 计算机考研院校推荐 计算机考研学校排名 计算机考研科目 计算机考研 计算机考研大纲 计算机专业考研 计算机考研专业课 计算机408考研科目 软件工程考研 考研真题
@@ -206,6 +207,8 @@
 
 ## Python 
 
+- [tianyilt/ecnu-PGCourseShare](https://github.com/tianyilt/ecnu-PGCourseShare) - 华东师范大学研究生课程攻略共享计划
+- [SJTU-CSE/awesome-cs](https://github.com/SJTU-CSE/awesome-cs) - 👨‍💻 ❤️ 💻 上海交通大学计算机系本科作业参考
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 - [JackeyLea/NJUCS](https://github.com/JackeyLea/NJUCS) - 2023南京大学计算机科学与技术845考研公共课和专业课资料：数学一、英语一、政治、数据结构、计算机网络、计算机系统基础、操作系统教程、算法设计与分析-包括真题、期末考试、PPT、模拟题、专业课参考书及课后答案、报录比、经验等等
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
@@ -311,6 +314,7 @@
 
 ## Vue 
 
+- [xiaoli1999/custom-avatar](https://github.com/xiaoli1999/custom-avatar) - 快速定制中国传统节日头像，国庆国旗头像。customize avatars for traditional Chinese festivals such as National Day, Mid-Autumn Festival, and Spring Festival."
 - [Anrunlu/zx-stu-frontend](https://github.com/Anrunlu/zx-stu-frontend) - 知新教学平台学生端
 - [linhaojun857/aurora](https://github.com/linhaojun857/aurora) - 基于SpringBoot+Vue开发的个人博客系统
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
