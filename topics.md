@@ -289,6 +289,7 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
@@ -515,7 +516,6 @@
 - [XinanCSD/XinanCSD.github.io](https://github.com/XinanCSD/XinanCSD.github.io) - CSD 个人博客
 - [Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth) - 希腊神话读书笔记
 - [azu/opml-to-markdown](https://github.com/azu/opml-to-markdown) - [node.js]Convert OPML(Outline) to Markdown
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [theniceboy/.config](https://github.com/theniceboy/.config) - My dotfiles
 - [wangtianyu456/vuepress-generateSidebar](https://github.com/wangtianyu456/vuepress-generateSidebar) - vuepress 自动根据pages目录生成sidebar
 - [Developer27149/create-juice-app](https://github.com/Developer27149/create-juice-app) - An interesting front-end scaffold
