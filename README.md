@@ -209,6 +209,7 @@
 
 ## Python 
 
+- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [tianyilt/ecnu-PGCourseShare](https://github.com/tianyilt/ecnu-PGCourseShare) - 华东师范大学研究生课程攻略共享计划
 - [SJTU-CSE/awesome-cs](https://github.com/SJTU-CSE/awesome-cs) - 👨‍💻 ❤️ 💻 上海交通大学计算机系本科作业参考
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
