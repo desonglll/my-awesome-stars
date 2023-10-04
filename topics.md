@@ -132,7 +132,7 @@
 
 ## c 
 
-- [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform asynchronous C framework, including a lot of components and a new coroutine script language Melang.
+- [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library, including a lot of components, frameworks and a new coroutine script language Melang.
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [Estom/notes](https://github.com/Estom/notes) - 一个码农的毕生所学!笔记 & 教程。考研,就业,上学.语言篇，Android,C++,Java,JavaScript,Latex,MATLAB,NodeJS,PHP,Python,技术篇,docker,git,Linux,Maven,office,Spark,Spring,SVN,基础篇,编译原理,操作系统,单片机,计算机网络,计算机网络实验,架构模式,软件文档写作,设计模式,数据结构,数据库,算
 
@@ -192,7 +192,7 @@
 ## data-structures 
 
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
-- [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform asynchronous C framework, including a lot of components and a new coroutine script language Melang.
+- [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library, including a lot of components, frameworks and a new coroutine script language Melang.
 - [doongz/notes](https://github.com/doongz/notes) - 算法｜技能｜知识｜数学
 
 ## data-visualization 
@@ -253,7 +253,7 @@
 
 ## framework 
 
-- [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform asynchronous C framework, including a lot of components and a new coroutine script language Melang.
+- [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library, including a lot of components, frameworks and a new coroutine script language Melang.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 
 ## frontend 
@@ -306,7 +306,7 @@
 
 ## http 
 
-- [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform asynchronous C framework, including a lot of components and a new coroutine script language Melang.
+- [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library, including a lot of components, frameworks and a new coroutine script language Melang.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 
 ## ios 
@@ -349,7 +349,7 @@
 
 ## json 
 
-- [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform asynchronous C framework, including a lot of components and a new coroutine script language Melang.
+- [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library, including a lot of components, frameworks and a new coroutine script language Melang.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 
 ## kubernetes 
