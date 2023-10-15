@@ -26,6 +26,7 @@
 - [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
+- [database](#database)
 - [deep-learning](#deep-learning)
 - [deno](#deno)
 - [docker](#docker)
@@ -54,6 +55,7 @@
 - [jekyll-theme](#jekyll-theme)
 - [json](#json)
 - [kubernetes](#kubernetes)
+- [laravel](#laravel)
 - [latex](#latex)
 - [learning](#learning)
 - [library](#library)
@@ -74,6 +76,7 @@
 - [npm](#npm)
 - [open-source](#open-source)
 - [others](#others)
+- [p2p](#p2p)
 - [package-manager](#package-manager)
 - [php](#php)
 - [powershell](#powershell)
@@ -205,6 +208,10 @@
 
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 
+## database 
+
+- [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
+
 ## deep-learning 
 
 - [datawhalechina/key-book](https://github.com/datawhalechina/key-book) - 《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。
@@ -278,6 +285,7 @@
 
 ## go 
 
+- [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 
 ## golang 
@@ -362,6 +370,10 @@
 ## kubernetes 
 
 - [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 二丫讲梵👇博客全部源码
+
+## laravel 
+
+- [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
 
 ## latex 
 
@@ -594,6 +606,10 @@
 - [skywind3000/vim-auto-popmenu](https://github.com/skywind3000/vim-auto-popmenu) - :sunglasses: Display the Completion Menu Automantically (next AutoComplPop) !!
 - [soulteary/docker-gitbook-pdf-generator](https://github.com/soulteary/docker-gitbook-pdf-generator) - 如果你想使用 GitBook 生成 PDF ，又不想折腾，使用这个项目就对啦！
 - [Noob-Dream/cskaoyan](https://github.com/Noob-Dream/cskaoyan) - 计算机考研国家线 计算机考研需要考哪些科目 计算机考研院校推荐 计算机考研学校排名 计算机考研科目 计算机考研 计算机考研大纲 计算机专业考研 计算机考研专业课 计算机408考研科目 软件工程考研 考研真题
+
+## p2p 
+
+- [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 
 ## package-manager 
 
