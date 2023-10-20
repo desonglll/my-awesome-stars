@@ -71,6 +71,7 @@
 - [music](#music)
 - [mysql](#mysql)
 - [neovim](#neovim)
+- [nextjs](#nextjs)
 - [nlp](#nlp)
 - [nodejs](#nodejs)
 - [npm](#npm)
@@ -147,6 +148,7 @@
 
 ## chatgpt 
 
+- [yesmore/inke](https://github.com/yesmore/inke) - 📖 A markdown-like web editor with AI-powered, store data locally.
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -242,6 +244,7 @@
 
 ## electron 
 
+- [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -340,6 +343,7 @@
 
 ## javascript 
 
+- [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [xiaoli1999/custom-avatar](https://github.com/xiaoli1999/custom-avatar) - 快速定制中国传统节日头像，国庆国旗头像。customize avatars for traditional Chinese festivals such as National Day, Mid-Autumn Festival, and Spring Festival."
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -426,6 +430,7 @@
 
 ## macos 
 
+- [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
@@ -438,6 +443,7 @@
 
 ## markdown 
 
+- [yesmore/inke](https://github.com/yesmore/inke) - 📖 A markdown-like web editor with AI-powered, store data locally.
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
@@ -491,6 +497,10 @@
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [theniceboy/nvim](https://github.com/theniceboy/nvim) - The Ultimate NeoVim Config for Colemak Users
 
+## nextjs 
+
+- [yesmore/inke](https://github.com/yesmore/inke) - 📖 A markdown-like web editor with AI-powered, store data locally.
+
 ## nlp 
 
 - [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate) - Open-source offline translation library written in Python
@@ -511,6 +521,7 @@
 
 ## others 
 
+- [oubingbing/school_wechat](https://github.com/oubingbing/school_wechat) - 校园小情书前端代码，好玩的表白墙、树洞、校园论坛，可独立部署，也可以使用我部署的后台服务，毕业设计的好项目。
 - [xfslove/alfred-google-translate](https://github.com/xfslove/alfred-google-translate) - Alfred 3 workflow - translate with google api💵🚫
 - [raawaa/jav-scrapy](https://github.com/raawaa/jav-scrapy) - 批量抓取AV磁链或封面的苦劳力
 - [busiyiworld/maimemo-export](https://github.com/busiyiworld/maimemo-export) - 用于导出墨墨背单词的词库，并生成适用于 List 背单词，不背单词，欧陆词典等的自定义词库
@@ -660,6 +671,7 @@
 
 ## react 
 
+- [yesmore/inke](https://github.com/yesmore/inke) - 📖 A markdown-like web editor with AI-powered, store data locally.
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 
 ## reactjs 
@@ -777,6 +789,7 @@
 
 ## windows 
 
+- [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 二丫讲梵👇博客全部源码
