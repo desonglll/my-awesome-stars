@@ -38,6 +38,7 @@
 
 ## C 
 
+- [MisaZhu/ewokos](https://github.com/MisaZhu/ewokos) - A microkernel os for ARM, well ported on Raspberry Pi(s)
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台命令行换源工具
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library, including a lot of components, frameworks and a new coroutine script language Melang.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
