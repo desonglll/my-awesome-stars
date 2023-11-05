@@ -541,6 +541,7 @@
 
 ## others 
 
+- [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server
 - [MisaZhu/ewokos](https://github.com/MisaZhu/ewokos) - A microkernel os for ARM, well ported on Raspberry Pi(s)
 - [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
 - [oubingbing/school_wechat](https://github.com/oubingbing/school_wechat) - 校园小情书前端代码，好玩的表白墙、树洞、校园论坛，可独立部署，也可以使用我部署的后台服务，毕业设计的好项目。
