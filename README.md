@@ -165,6 +165,7 @@
 
 ## Lua 
 
+- [LazyVim/lazyvim.github.io](https://github.com/LazyVim/lazyvim.github.io) - LazyVim Website
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
