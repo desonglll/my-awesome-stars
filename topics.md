@@ -545,6 +545,7 @@
 
 ## others 
 
+- [LazyVim/lazyvim.github.io](https://github.com/LazyVim/lazyvim.github.io) - LazyVim Website
 - [JDC2001/408](https://github.com/JDC2001/408) - 408历年真题及答案
 - [ddy-ddy/cs-408](https://github.com/ddy-ddy/cs-408) - 计算机考研专业课程408相关的复习经验，资源和OneNote笔记
 - [qguangyao/MySound](https://github.com/qguangyao/MySound) - A demo of playing notes written in Java
