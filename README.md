@@ -309,6 +309,7 @@
 
 ## TeX 
 
+- [hijiangtao/resume](https://github.com/hijiangtao/resume) - 个人中文简历 Latex 源码 https://hijiangtao.github.io/
 - [TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis) - Zhejiang University Graduation Thesis LaTeX Template
 - [inyscc/MathFormula](https://github.com/inyscc/MathFormula) - 考研数学公式简单集合
 - [ricolxwz/Kaoyanshuxue](https://github.com/ricolxwz/Kaoyanshuxue) - 考研数学LaTeX
