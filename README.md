@@ -21,7 +21,6 @@
 - [Less](#less)
 - [Lua](#lua)
 - [Markdown](#markdown)
-- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -45,6 +44,7 @@
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library, including a lot of components, frameworks and a new coroutine script language Melang.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 
 ## C# # 
 
@@ -189,10 +189,6 @@
 
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [doongz/notes](https://github.com/doongz/notes) - 算法｜技能｜知识｜数学
-
-## Objective-C 
-
-- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 
 ## Others 
 
