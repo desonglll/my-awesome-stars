@@ -160,7 +160,7 @@
 
 ## chatgpt 
 
-- [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy = PandoraNext. New GPTs(Gizmo) UI, All in one!
+- [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!
 - [yesmore/inke](https://github.com/yesmore/inke) - 📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
