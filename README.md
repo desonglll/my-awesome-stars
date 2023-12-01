@@ -11,6 +11,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Dockerfile](#dockerfile)
+- [Erlang](#erlang)
 - [Go](#go)
 - [HTML](#html)
 - [Handlebars](#handlebars)
@@ -81,8 +82,13 @@
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [soulteary/docker-gitbook-pdf-generator](https://github.com/soulteary/docker-gitbook-pdf-generator) - 如果你想使用 GitBook 生成 PDF ，又不想折腾，使用这个项目就对啦！
 
+## Erlang 
+
+- [zhengqingya/docker-compose](https://github.com/zhengqingya/docker-compose) - 通过docker-compose编排一系列环境进行一键快速部署运行，小白运维神器。
+
 ## Go 
 
+- [rhysd/vim-startuptime](https://github.com/rhysd/vim-startuptime) - A small Go program for better `vim --startuptime` alternative
 - [bitepeng/b0pass](https://github.com/bitepeng/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 - [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
@@ -348,6 +354,7 @@
 
 ## Vue 
 
+- [jamebal/jmal-cloud-view](https://github.com/jamebal/jmal-cloud-view) - JmalCloud 是一款私有云存储网盘项目，能够简单安全管理您的云端文件
 - [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 - [xiaoli1999/custom-avatar](https://github.com/xiaoli1999/custom-avatar) - 快速定制中国传统节日头像，国庆国旗头像。customize avatars for traditional Chinese festivals such as National Day, Mid-Autumn Festival, and Spring Festival."
 - [Anrunlu/zx-stu-frontend](https://github.com/Anrunlu/zx-stu-frontend) - 知新教学平台学生端
