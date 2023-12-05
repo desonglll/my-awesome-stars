@@ -185,7 +185,7 @@
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [jiaxinaoliao/neovimBeginCpp](https://github.com/jiaxinaoliao/neovimBeginCpp) - 纯lua配置的neovim快速配置（基本开箱即用）
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
-- [bitterteasweetorange/nvim](https://github.com/bitterteasweetorange/nvim) - Neovim 0.9 configuration for coding React and TypeScript
+- [bitterteasweetorange/nvim](https://github.com/bitterteasweetorange/nvim) - Neovim 0.9 configuration for coding React, TypeScript and Rust
 - [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files) - 
 - [Martins3/My-Linux-Config](https://github.com/Martins3/My-Linux-Config) - :clap: Modern neovim configuration based on native lsp
 - [jpmcb/nvim-lua-conf](https://github.com/jpmcb/nvim-lua-conf) - My currated NeoVim experience, all in Lua
