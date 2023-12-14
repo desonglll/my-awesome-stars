@@ -45,7 +45,6 @@
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 - [MisaZhu/ewokos](https://github.com/MisaZhu/ewokos) - A microkernel os for ARM, well ported on Raspberry Pi(s)
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台命令行换源工具
-- [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library, including a lot of components, frameworks and a new coroutine script language Melang.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
@@ -173,6 +172,7 @@
 ## Jupyter Notebook 
 
 - [chenxwh/insanely-fast-whisper](https://github.com/chenxwh/insanely-fast-whisper) - Incredibly fast Whisper-large-v3
+- [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [scottming/BookData](https://github.com/scottming/BookData) - Python 和数据科学学习笔记
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
 - [Estom/notes](https://github.com/Estom/notes) - 一个码农的毕生所学!笔记 & 教程。考研,就业,上学.语言篇，Android,C++,Java,JavaScript,Latex,MATLAB,NodeJS,PHP,Python,技术篇,docker,git,Linux,Maven,office,Spark,Spring,SVN,基础篇,编译原理,操作系统,单片机,计算机网络,计算机网络实验,架构模式,软件文档写作,设计模式,数据结构,数据库,算
