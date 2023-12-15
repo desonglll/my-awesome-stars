@@ -179,7 +179,7 @@
 
 ## Less 
 
-- [Soanguy/MPE_Soanguy](https://github.com/Soanguy/MPE_Soanguy) - Markdown Preview Enhanced 打印主题
+- [Soanguy/Soanguy_MPE_Theme](https://github.com/Soanguy/Soanguy_MPE_Theme) - Markdown Preview Enhanced 打印主题
 
 ## Lua 
 
