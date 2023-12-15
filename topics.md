@@ -493,7 +493,7 @@
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
-- [Soanguy/MPE_Soanguy](https://github.com/Soanguy/MPE_Soanguy) - Markdown Preview Enhanced 打印主题
+- [Soanguy/Soanguy_MPE_Theme](https://github.com/Soanguy/Soanguy_MPE_Theme) - Markdown Preview Enhanced 打印主题
 - [doongz/notes](https://github.com/doongz/notes) - 算法｜技能｜知识｜数学
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
