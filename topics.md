@@ -184,6 +184,8 @@
 
 ## cli 
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
@@ -298,6 +300,7 @@
 
 ## framework 
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library, including a lot of components, frameworks and a new coroutine script language Melang.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 
@@ -318,12 +321,14 @@
 
 ## go 
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [bitepeng/b0pass](https://github.com/bitepeng/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 
 ## golang 
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [bitepeng/b0pass](https://github.com/bitepeng/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
@@ -336,6 +341,7 @@
 
 ## hacktoberfest 
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
@@ -436,6 +442,7 @@
 
 ## linux 
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [Avimitin/nvim](https://github.com/Avimitin/nvim) - Useful, maintainable, multi-language supported neovim configuration.
 - [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -472,6 +479,7 @@
 
 ## macos 
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -570,6 +578,7 @@
 
 ## others 
 
+- [xiaolei565/aimto408](https://github.com/xiaolei565/aimto408) - 🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕 计算机考研 4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新23年大纲变化----2023年408和数学基本无变化）
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [qinL-cdy/auto_ai_subtitle](https://github.com/qinL-cdy/auto_ai_subtitle) - 
@@ -757,6 +766,7 @@
 
 ## rust 
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -878,6 +888,7 @@
 
 ## windows 
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
