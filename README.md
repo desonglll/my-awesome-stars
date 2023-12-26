@@ -257,6 +257,7 @@
 
 ## Python 
 
+- [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [zh-plus/openlrc](https://github.com/zh-plus/openlrc) - Transcribe (whisper) and translate (gpt) voice into LRC file. 使用whisper和gpt来转录、翻译你的音频为字幕文件。
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
 - [qinL-cdy/auto_ai_subtitle](https://github.com/qinL-cdy/auto_ai_subtitle) - 
@@ -325,6 +326,7 @@
 
 ## Shell 
 
+- [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [theniceboy/.config](https://github.com/theniceboy/.config) - My dotfiles
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
