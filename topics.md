@@ -616,6 +616,7 @@
 
 ## others 
 
+- [Xiumuzaidiao/Day-night-toggle-button](https://github.com/Xiumuzaidiao/Day-night-toggle-button) - 最近很火的折磨人挑战，复刻了一下，放到期末作业博客里了，大概有90%还原度(确实太折磨人了)
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [zh-plus/openlrc](https://github.com/zh-plus/openlrc) - Transcribe (whisper) and translate (gpt) voice into LRC file. 使用whisper和gpt来转录、翻译你的音频为字幕文件。
 - [xiaolei565/aimto408](https://github.com/xiaolei565/aimto408) - 🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕 计算机考研 4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新23年大纲变化----2023年408和数学基本无变化）
