@@ -90,6 +90,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [programming](#programming)
+- [project-management](#project-management)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -770,6 +771,10 @@
 
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+
+## project-management 
+
+- [kuaifan/dootask](https://github.com/kuaifan/dootask) - DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。
 
 ## pwa 
 
