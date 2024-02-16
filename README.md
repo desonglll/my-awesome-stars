@@ -263,6 +263,7 @@
 
 ## Python 
 
+- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [zh-plus/openlrc](https://github.com/zh-plus/openlrc) - Transcribe and translate voice into LRC file using Whisper and GPT. 使用whisper和gpt来转录、翻译你的音频为字幕文件。
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
