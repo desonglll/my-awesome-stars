@@ -636,6 +636,7 @@
 
 ## others 
 
+- [dyweb/Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese) - 适合应届毕业生的 LaTeX 简历模板
 - [geeeeeeeek/python_student](https://github.com/geeeeeeeek/python_student) - python+django开发的学生信息管理系统 - 毕业设计 - 课程设计
 - [Xiumuzaidiao/Day-night-toggle-button](https://github.com/Xiumuzaidiao/Day-night-toggle-button) - 最近很火的折磨人挑战，复刻了一下，放到期末作业博客里了，大概有90%还原度(确实太折磨人了)
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
