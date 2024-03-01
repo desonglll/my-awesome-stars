@@ -49,6 +49,7 @@
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
+- [google](#google)
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -365,6 +366,10 @@
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [doongz/notes](https://github.com/doongz/notes) - 算法｜技能｜知识｜数学
 - [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 二丫讲梵👇博客全部源码
+
+## google 
+
+- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。
 
 ## graphql 
 
