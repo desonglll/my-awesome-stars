@@ -364,7 +364,7 @@
 - [hijiangtao/resume](https://github.com/hijiangtao/resume) - 个人中文简历 Latex 源码 https://hijiangtao.github.io/
 - [TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis) - Zhejiang University Graduation Thesis LaTeX Template
 - [inyscc/MathFormula](https://github.com/inyscc/MathFormula) - 考研数学公式简单集合
-- [ricolxwz/Kaoyanshuxue](https://github.com/ricolxwz/Kaoyanshuxue) - 考研数学LaTeX
+- [ricolxwz/Kaoyanshuxue](https://github.com/ricolxwz/Kaoyanshuxue) - 考研数学二LaTeX
 - [erwanjun/weixin_tuisong](https://github.com/erwanjun/weixin_tuisong) - 基于猪咪不是猪老哥制作的微信公众号推送教程
 
 ## TypeScript 
