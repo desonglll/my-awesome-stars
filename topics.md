@@ -748,7 +748,7 @@
 - [inyscc/MathFormula](https://github.com/inyscc/MathFormula) - 考研数学公式简单集合
 - [ChemLez/xmcTiaoJiInformation_Pachong](https://github.com/ChemLez/xmcTiaoJiInformation_Pachong) - 爬虫。考研调剂信息。主要爬取小木虫网站的调剂信息。可以爬取任何年份，任何专业的调剂信息。爬取内容包括：标题，学校名称，专业、招生人数、发布时间、学校发布调剂的网页链接。主要用到的库:BeautifulSoup,requests,re。
 - [wmathor/Postgraduate-Advanced-Mathematics](https://github.com/wmathor/Postgraduate-Advanced-Mathematics) - 考研高等数学复习笔记（停止更新）
-- [ricolxwz/Kaoyanshuxue](https://github.com/ricolxwz/Kaoyanshuxue) - 考研数学LaTeX
+- [ricolxwz/Kaoyanshuxue](https://github.com/ricolxwz/Kaoyanshuxue) - 考研数学二LaTeX
 - [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) - 
 - [QianJianTech/LaTeXLive](https://github.com/QianJianTech/LaTeXLive) - LateX公式编辑器-妈叔出品
 - [bill-xia/hexo-theme-mashiro](https://github.com/bill-xia/hexo-theme-mashiro) - CTeX-like Hexo theme.
