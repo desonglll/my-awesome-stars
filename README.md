@@ -266,6 +266,7 @@
 
 ## Python 
 
+- [federicoazzu/five_decorators](https://github.com/federicoazzu/five_decorators) - Five useful decorators to inspire your code in Python.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
