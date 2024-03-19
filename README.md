@@ -20,6 +20,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
 - [Markdown](#markdown)
@@ -106,6 +107,7 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [youridol/DecrypeMusic](https://github.com/youridol/DecrypeMusic) - 音乐解锁：移除已购音乐的加密保护。 目前支持网易云音乐(ncm)、QQ音乐(qmc, mflac, tkm, ogg) 。
 - [Ehco1996/Python-crawler](https://github.com/Ehco1996/Python-crawler) - 从头开始 系统化的 学习如何写Python爬虫。 Python版本 3.6
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
@@ -181,6 +183,10 @@
 - [scottming/BookData](https://github.com/scottming/BookData) - Python 和数据科学学习笔记
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
 - [Estom/notes](https://github.com/Estom/notes) - 一个码农的毕生所学!笔记 & 教程。考研,就业,上学.语言篇，Android,C++,Java,JavaScript,Latex,MATLAB,NodeJS,PHP,Python,技术篇,docker,git,Linux,Maven,office,Spark,Spring,SVN,基础篇,编译原理,操作系统,单片机,计算机网络,计算机网络实验,架构模式,软件文档写作,设计模式,数据结构,数据库,算
+
+## Kotlin 
+
+- [unit-mesh/auto-dev](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent 
 
 ## Less 
 
@@ -266,6 +272,7 @@
 
 ## Python 
 
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [federicoazzu/five_decorators](https://github.com/federicoazzu/five_decorators) - Five useful decorators to inspire your code in Python.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
@@ -353,6 +360,8 @@
 
 ## Swift 
 
+- [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) - :keyboard: The missing keyboard shortcut utility for macOS
+- [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
 - [sk-ruban/CS193p](https://github.com/sk-ruban/CS193p) - 🎒 Stanford University CS193p (SwiftUI) - Spring 2023. Notes & Solutions for Assignments (+ Extra Credit).
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
@@ -372,6 +381,7 @@
 
 ## TypeScript 
 
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
 - [terobox/ChatGPT-API-Faucet](https://github.com/terobox/ChatGPT-API-Faucet) - AI 圈的水龙头网站，每24小时可领取一个令牌用于开发测试 AI 产品
@@ -409,6 +419,7 @@
 
 ## Vue 
 
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
 - [geeeeeeeek/python_student](https://github.com/geeeeeeeek/python_student) - python+django开发的学生信息管理系统 - 毕业设计 - 课程设计
 - [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 - [jamebal/jmal-cloud-view](https://github.com/jamebal/jmal-cloud-view) - JmalCloud 是一款私有云存储网盘项目，能够简单安全管理您的云端文件
