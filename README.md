@@ -228,6 +228,7 @@
 
 ## Others 
 
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
 - [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [geeeeeeeek/code_products](https://github.com/geeeeeeeek/code_products) - 毕业设计，python/django，java/springboot，vue
@@ -272,7 +273,6 @@
 
 ## Python 
 
-- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [federicoazzu/five_decorators](https://github.com/federicoazzu/five_decorators) - Five useful decorators to inspire your code in Python.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
