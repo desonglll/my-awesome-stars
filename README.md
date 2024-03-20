@@ -361,6 +361,7 @@
 
 ## Swift 
 
+- [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) - :keyboard: The missing keyboard shortcut utility for macOS
 - [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
 - [sk-ruban/CS193p](https://github.com/sk-ruban/CS193p) - 🎒 Stanford University CS193p (SwiftUI) - Spring 2023. Notes & Solutions for Assignments (+ Extra Credit).
