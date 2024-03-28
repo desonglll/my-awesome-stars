@@ -404,7 +404,7 @@
 - [Developer27149/create-juice-app](https://github.com/Developer27149/create-juice-app) - An interesting front-end scaffold
 - [antdv-pro/antdv-pro](https://github.com/antdv-pro/antdv-pro) - An antdv-based middle and background management system
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [antvis/G2Plot](https://github.com/antvis/G2Plot) - :dango:  An interactive and responsive charting library.
+- [antvis/G2Plot](https://github.com/antvis/G2Plot) - :dango:  An interactive and responsive charting library based on G2.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 - [turkyden/lizhi](https://github.com/turkyden/lizhi) - 🎸 李志 (B 仔) 音乐作品跨平台播放器，支持 Web / Mac / Windows / Linux
