@@ -50,7 +50,6 @@
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
-- [google](#google)
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -386,10 +385,6 @@
 - [doongz/notes](https://github.com/doongz/notes) - 算法｜技能｜知识｜数学
 - [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 二丫讲梵👇博客全部源码
 
-## google 
-
-- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。
-
 ## graphql 
 
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
@@ -714,6 +709,7 @@
 - [oubingbing/school_wechat](https://github.com/oubingbing/school_wechat) - 校园小情书前端代码，好玩的表白墙、树洞、校园论坛，可独立部署，也可以使用我部署的后台服务，毕业设计的好项目。
 - [xfslove/alfred-google-translate](https://github.com/xfslove/alfred-google-translate) - Alfred 3 workflow - translate with google api💵🚫
 - [raawaa/jav-scrapy](https://github.com/raawaa/jav-scrapy) - 批量抓取AV磁链或封面的苦劳力
+- [busiyiworld/maimemo-export](https://github.com/busiyiworld/maimemo-export) - 用于导出墨墨背单词的词库，并生成适用于 List 背单词，不背单词，欧陆词典等的自定义词库
 - [youridol/DecrypeMusic](https://github.com/youridol/DecrypeMusic) - 音乐解锁：移除已购音乐的加密保护。 目前支持网易云音乐(ncm)、QQ音乐(qmc, mflac, tkm, ogg) 。
 - [fanmingming/live](https://github.com/fanmingming/live) - ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 - [samaritanhu/ecnu-courses](https://github.com/samaritanhu/ecnu-courses) - 华东师范大学计算数学 与 上海交通大学金融学 课程ppt备份
