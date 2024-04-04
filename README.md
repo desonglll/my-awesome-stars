@@ -173,6 +173,7 @@
 - [wzpan/hexo-generator-search](https://github.com/wzpan/hexo-generator-search) - A plugin to generate search data for Hexo.
 - [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 🎨 This is the repo for vuepress-theme-reco 2.
 - [xx025/yanx](https://github.com/xx025/yanx) - yanx：研招网硕士招生目录下载工具
+- [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 二丫讲梵👇博客全部源码
 - [bill-xia/hexo-theme-mashiro](https://github.com/bill-xia/hexo-theme-mashiro) - CTeX-like Hexo theme.
 - [imageslr/mweb-themes](https://github.com/imageslr/mweb-themes) - 30+ 款 Markdown 预览主题，Typo.css、Vue、Bear、飞书云文档等风格，适用于 MWeb、Typora。
 - [andyoakley/mkdocs-fastsearch](https://github.com/andyoakley/mkdocs-fastsearch) - 
@@ -264,7 +265,6 @@
 - [SharingSource/LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode) - 公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码
 - [KelvinQiu802/project-ideas](https://github.com/KelvinQiu802/project-ideas) - 集合优质的项目仓库，找到适合你的项目。
 - [wmathor/Postgraduate-Advanced-Mathematics](https://github.com/wmathor/Postgraduate-Advanced-Mathematics) - 考研高等数学复习笔记（停止更新）
-- [eryajf/eryajf.github.io-old](https://github.com/eryajf/eryajf.github.io-old) - 二丫讲梵👇博客全部源码
 - [sfdhchg/-](https://github.com/sfdhchg/-) - 
 
 ## PHP 
