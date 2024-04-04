@@ -264,7 +264,7 @@
 - [SharingSource/LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode) - 公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码
 - [KelvinQiu802/project-ideas](https://github.com/KelvinQiu802/project-ideas) - 集合优质的项目仓库，找到适合你的项目。
 - [wmathor/Postgraduate-Advanced-Mathematics](https://github.com/wmathor/Postgraduate-Advanced-Mathematics) - 考研高等数学复习笔记（停止更新）
-- [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 二丫讲梵👇博客全部源码
+- [eryajf/eryajf.github.io-old](https://github.com/eryajf/eryajf.github.io-old) - 二丫讲梵👇博客全部源码
 - [sfdhchg/-](https://github.com/sfdhchg/-) - 
 
 ## PHP 
