@@ -676,6 +676,7 @@
 
 ## others 
 
+- [apiaryio/api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
 - [kaieye/2022-Machine-Learning-Specialization](https://github.com/kaieye/2022-Machine-Learning-Specialization) - 
 - [senchiiry/Postgraduate_CS_kaoyan](https://github.com/senchiiry/Postgraduate_CS_kaoyan) - 一战11408计算机考研失败经历总结（含部分初复试资料心得、调剂历程等）
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
