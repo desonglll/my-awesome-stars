@@ -676,6 +676,7 @@
 
 ## others 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [apiaryio/api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
 - [kaieye/2022-Machine-Learning-Specialization](https://github.com/kaieye/2022-Machine-Learning-Specialization) - 
 - [senchiiry/Postgraduate_CS_kaoyan](https://github.com/senchiiry/Postgraduate_CS_kaoyan) - 一战11408计算机考研失败经历总结（含部分初复试资料心得、调剂历程等）
