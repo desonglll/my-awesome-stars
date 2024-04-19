@@ -686,6 +686,8 @@
 
 ## others 
 
+- [lehongwen/awesome-edge-computing](https://github.com/lehongwen/awesome-edge-computing) - 边缘计算工程，从边缘计算概念、标准、软件系统、工程到商业应用。
+- [lehongwen/edge-computing](https://github.com/lehongwen/edge-computing) - Awesome-EdgeComputing：边缘计算技术指南和资源列表
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [apiaryio/api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
 - [kaieye/2022-Machine-Learning-Specialization](https://github.com/kaieye/2022-Machine-Learning-Specialization) - 
