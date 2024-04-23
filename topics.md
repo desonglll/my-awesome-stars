@@ -692,6 +692,7 @@
 
 ## others 
 
+- [tyrchen/rust-training](https://github.com/tyrchen/rust-training) - my rust training to the team.
 - [lehongwen/awesome-edge-computing](https://github.com/lehongwen/awesome-edge-computing) - 边缘计算工程，从边缘计算概念、标准、软件系统、工程到商业应用。
 - [lehongwen/edge-computing](https://github.com/lehongwen/edge-computing) - Awesome-EdgeComputing：边缘计算技术指南和资源列表
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
