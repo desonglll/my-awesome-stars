@@ -691,6 +691,7 @@
 
 ## others 
 
+- [code-cp/nanogpt-burn](https://github.com/code-cp/nanogpt-burn) - 
 - [tyrchen/rust-training](https://github.com/tyrchen/rust-training) - my rust training to the team.
 - [lehongwen/awesome-edge-computing](https://github.com/lehongwen/awesome-edge-computing) - 边缘计算工程，从边缘计算概念、标准、软件系统、工程到商业应用。
 - [lehongwen/edge-computing](https://github.com/lehongwen/edge-computing) - Awesome-EdgeComputing：边缘计算技术指南和资源列表
