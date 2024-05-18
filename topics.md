@@ -729,6 +729,7 @@
 
 ## others 
 
+- [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install and run your own AI agent service
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 - [SweetornotspicyMarathon/Learn-Tensorflow-Keras-Note](https://github.com/SweetornotspicyMarathon/Learn-Tensorflow-Keras-Note) - TensorFlow+Keras 深度學習人工智慧實務應用 書籍(作者:林大貴)學習筆記
