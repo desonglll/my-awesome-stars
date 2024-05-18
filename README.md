@@ -373,6 +373,7 @@
 
 ## Shell 
 
+- [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install and run your own AI agent service
 - [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [theniceboy/.config](https://github.com/theniceboy/.config) - My dotfiles
