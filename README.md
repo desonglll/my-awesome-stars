@@ -348,6 +348,7 @@
 
 ## Rust 
 
+- [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [code-cp/nanogpt-burn](https://github.com/code-cp/nanogpt-burn) - 
 - [tyrchen/rust-training](https://github.com/tyrchen/rust-training) - my rust training to the team.
