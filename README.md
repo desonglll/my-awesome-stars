@@ -348,6 +348,7 @@
 
 ## Rust 
 
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [code-cp/nanogpt-burn](https://github.com/code-cp/nanogpt-burn) - 
