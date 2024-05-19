@@ -239,6 +239,7 @@
 
 ## Others 
 
+- [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
 - [lehongwen/edge-computing](https://github.com/lehongwen/edge-computing) - Awesome-EdgeComputing：边缘计算技术指南和资源列表
 - [apiaryio/api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
 - [senchiiry/Postgraduate_CS_kaoyan](https://github.com/senchiiry/Postgraduate_CS_kaoyan) - 一战11408计算机考研失败经历总结（含部分初复试资料心得、调剂历程等）
