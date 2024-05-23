@@ -286,6 +286,7 @@
 
 ## Python 
 
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [Jack-Cherish/Deep-Learning](https://github.com/Jack-Cherish/Deep-Learning) - :computer:深度学习实战：手写数字识别、Discuz验证码识别、垃圾分类、语义分割
 - [SYkkk55/Face_recongize](https://github.com/SYkkk55/Face_recongize) - 原始檔案人臉辨識，之後要修正臉部偵測
