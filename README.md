@@ -286,6 +286,8 @@
 
 ## Python 
 
+- [MiuLab/Taiwan-LLM](https://github.com/MiuLab/Taiwan-LLM) - Traditional Mandarin LLMs for Taiwan
+- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [Jack-Cherish/Deep-Learning](https://github.com/Jack-Cherish/Deep-Learning) - :computer:深度学习实战：手写数字识别、Discuz验证码识别、垃圾分类、语义分割
