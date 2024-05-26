@@ -286,6 +286,14 @@
 
 ## Python 
 
+- [nigauri1215/NTU-2023Fall-ADL](https://github.com/nigauri1215/NTU-2023Fall-ADL) - Deep Learning 深度學習之應用 by Vivian Chen 陳縕儂 at NTU CSIE
+- [roy0428/ADL_Final](https://github.com/roy0428/ADL_Final) - NTU ADL 2023
+- [roy0428/ADL_HW1](https://github.com/roy0428/ADL_HW1) - NTU ADL 2023
+- [roy0428/ADL_HW3](https://github.com/roy0428/ADL_HW3) - NTU ADL 2023
+- [roy0428/ADL_HW2](https://github.com/roy0428/ADL_HW2) - NTU ADL 2023
+- [roy0428/ADL_HW1_bonus](https://github.com/roy0428/ADL_HW1_bonus) - NTU ADL 2023
+- [CYXup6/ADL-2023-Final](https://github.com/CYXup6/ADL-2023-Final) - 
+- [RuiyangJu/NTU-ADL-23FALL](https://github.com/RuiyangJu/NTU-ADL-23FALL) - NTU ADL 2023 Fall Homework
 - [MiuLab/Taiwan-LLM](https://github.com/MiuLab/Taiwan-LLM) - Traditional Mandarin LLMs for Taiwan
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
