@@ -748,6 +748,14 @@
 
 ## others 
 
+- [nigauri1215/NTU-2023Fall-ADL](https://github.com/nigauri1215/NTU-2023Fall-ADL) - Deep Learning 深度學習之應用 by Vivian Chen 陳縕儂 at NTU CSIE
+- [roy0428/ADL_Final](https://github.com/roy0428/ADL_Final) - NTU ADL 2023
+- [roy0428/ADL_HW1](https://github.com/roy0428/ADL_HW1) - NTU ADL 2023
+- [roy0428/ADL_HW3](https://github.com/roy0428/ADL_HW3) - NTU ADL 2023
+- [roy0428/ADL_HW2](https://github.com/roy0428/ADL_HW2) - NTU ADL 2023
+- [roy0428/ADL_HW1_bonus](https://github.com/roy0428/ADL_HW1_bonus) - NTU ADL 2023
+- [CYXup6/ADL-2023-Final](https://github.com/CYXup6/ADL-2023-Final) - 
+- [RuiyangJu/NTU-ADL-23FALL](https://github.com/RuiyangJu/NTU-ADL-23FALL) - NTU ADL 2023 Fall Homework
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install and run your own AI agent service
