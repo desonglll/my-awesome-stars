@@ -748,6 +748,7 @@
 
 ## others 
 
+- [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
 - [nigauri1215/NTU-2023Fall-ADL](https://github.com/nigauri1215/NTU-2023Fall-ADL) - Deep Learning 深度學習之應用 by Vivian Chen 陳縕儂 at NTU CSIE
 - [roy0428/ADL_Final](https://github.com/roy0428/ADL_Final) - NTU ADL 2023
 - [roy0428/ADL_HW1](https://github.com/roy0428/ADL_HW1) - NTU ADL 2023
