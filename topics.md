@@ -440,6 +440,7 @@
 
 ## hacktoberfest 
 
+- [printfn/fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
@@ -1008,6 +1009,7 @@
 
 ## rust 
 
+- [printfn/fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
