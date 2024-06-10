@@ -403,6 +403,7 @@
 
 ## Shell 
 
+- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本
 - [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install and run your own AI agent service
 - [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
