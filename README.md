@@ -254,6 +254,7 @@
 
 ## Others 
 
+- [thunder439/QNASMINI](https://github.com/thunder439/QNASMINI) - QNAS MINI是6盘位2.5寸NAS
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
 - [lehongwen/edge-computing](https://github.com/lehongwen/edge-computing) - Awesome-EdgeComputing：边缘计算技术指南和资源列表
 - [apiaryio/api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
