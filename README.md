@@ -254,6 +254,8 @@
 
 ## Others 
 
+- [thunder439/QNAS4](https://github.com/thunder439/QNAS4) - 4盘位NAS
+- [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [thunder439/QNASMINI](https://github.com/thunder439/QNASMINI) - QNAS MINI是6盘位2.5寸NAS
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
 - [lehongwen/edge-computing](https://github.com/lehongwen/edge-computing) - Awesome-EdgeComputing：边缘计算技术指南和资源列表
