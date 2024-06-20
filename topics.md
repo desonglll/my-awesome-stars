@@ -779,6 +779,7 @@
 
 ## others 
 
+- [thunder439/QNASMINI](https://github.com/thunder439/QNASMINI) - QNAS MINI是6盘位2.5寸NAS
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [bitiful/send](https://github.com/bitiful/send) - 基于 Bitiful S4 对象存储的 “Simul-Transfer（即传即收）”  技术实现的大文件实时多人分享，Wetransfer 或 奶牛快传 的相似开源替代品。
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
