@@ -800,7 +800,7 @@
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install and run your own AI agent service
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-- [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
+- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [SweetornotspicyMarathon/Learn-Tensorflow-Keras-Note](https://github.com/SweetornotspicyMarathon/Learn-Tensorflow-Keras-Note) - TensorFlow+Keras 深度學習人工智慧實務應用 書籍(作者:林大貴)學習筆記
 - [SYkkk55/Face_recongize](https://github.com/SYkkk55/Face_recongize) - 原始檔案人臉辨識，之後要修正臉部偵測
 - [zhaarey/apple-music-alac-atmos-downloader](https://github.com/zhaarey/apple-music-alac-atmos-downloader) - Apple Music ALAC / Dolby Atmos Downloader
