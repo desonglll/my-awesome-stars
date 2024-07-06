@@ -159,6 +159,7 @@
 
 ## JavaScript 
 
+- [imyanger/yblog](https://github.com/imyanger/yblog) - 个人博客项目（SpringBoot + Vue + MySQL）
 - [maple3142/ebook-converter](https://github.com/maple3142/ebook-converter) - 簡單的電子書繁簡轉換器
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
