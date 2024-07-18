@@ -160,7 +160,7 @@
 
 ## JavaScript 
 
-- [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) - 收录商用免费汉字字体 Free Font
+- [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) - 收录商用免费汉字字体，还包括开源英文字体 Free Font
 - [sesine/wechat-weapp-movie](https://github.com/sesine/wechat-weapp-movie) - 🎬电影推荐 - 微信小程序
 - [imyanger/yblog](https://github.com/imyanger/yblog) - 个人博客项目（SpringBoot + Vue + MySQL）
 - [maple3142/ebook-converter](https://github.com/maple3142/ebook-converter) - 簡單的電子書繁簡轉換器
