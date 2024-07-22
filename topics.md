@@ -914,7 +914,7 @@
 - [azu/opml-to-markdown](https://github.com/azu/opml-to-markdown) - [node.js]Convert OPML(Outline) to Markdown
 - [theniceboy/.config](https://github.com/theniceboy/.config) - My dotfiles
 - [wangtianyu456/vuepress-generateSidebar](https://github.com/wangtianyu456/vuepress-generateSidebar) - vuepress 自动根据pages目录生成sidebar
-- [Developer27149/create-juice-app](https://github.com/Developer27149/create-juice-app) - An interesting front-end scaffold
+- [AaronConlon/create-juice-app](https://github.com/AaronConlon/create-juice-app) - An interesting front-end scaffold
 - [antdv-pro/antdv-pro](https://github.com/antdv-pro/antdv-pro) - An antdv-based middle and background management system
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
