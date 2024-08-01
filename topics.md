@@ -813,6 +813,7 @@
 
 ## others 
 
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [sesine/wechat-weapp-movie](https://github.com/sesine/wechat-weapp-movie) - 🎬电影推荐 - 微信小程序
 - [Bai1026/FAI](https://github.com/Bai1026/FAI) - Foundation of Artificial Intelligence(CSIE3005) at National Taiwan University (NTU)
