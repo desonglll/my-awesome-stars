@@ -454,6 +454,8 @@
 
 ## TeX 
 
+- [jdavis/latex-homework-template](https://github.com/jdavis/latex-homework-template) - 🎓📄 The LaTeX file that I used as the base for all my homework in university.
+- [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [Digital-Media/HagenbergThesis](https://github.com/Digital-Media/HagenbergThesis) - Hagenberg LaTeX Thesis Template
 - [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) - 《Machine Learning Systems: Design and Implementation》- Chinese Version
 - [zachscrivena/simple-resume-cv](https://github.com/zachscrivena/simple-resume-cv) - Template for a simple resume or curriculum vitae (CV), in XeLaTeX.
