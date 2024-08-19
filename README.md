@@ -455,6 +455,7 @@
 
 ## TeX 
 
+- [gboeing/cv](https://github.com/gboeing/cv) - Geoff Boeing's academic CV in LaTeX
 - [jdavis/latex-homework-template](https://github.com/jdavis/latex-homework-template) - 🎓📄 The LaTeX file that I used as the base for all my homework in university.
 - [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [Digital-Media/HagenbergThesis](https://github.com/Digital-Media/HagenbergThesis) - Hagenberg LaTeX Thesis Template
