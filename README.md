@@ -198,6 +198,7 @@
 
 ## Jupyter Notebook 
 
+- [nndl/exercise](https://github.com/nndl/exercise) - exercise for nndl
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [roatienza/Deep-Learning-Experiments](https://github.com/roatienza/Deep-Learning-Experiments) - Videos, notes and experiments to understand deep learning
 - [Bai1026/FAI](https://github.com/Bai1026/FAI) - Foundation of Artificial Intelligence(CSIE3005) at National Taiwan University (NTU)
