@@ -48,6 +48,7 @@
 - [ember](#ember)
 - [emoji](#emoji)
 - [english](#english)
+- [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
 - [font](#font)
@@ -407,6 +408,10 @@
 ## english 
 
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
+
+## firefox 
+
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 
 ## flask 
 
