@@ -835,6 +835,7 @@
 
 ## others 
 
+- [peshwar9/rust-servers-services-apps](https://github.com/peshwar9/rust-servers-services-apps) - Code for Manning book - Rust Servers, Services and Apps.
 - [nndl/exercise](https://github.com/nndl/exercise) - exercise for nndl
 - [rust10x/rust-web-app](https://github.com/rust10x/rust-web-app) - Code template for a production Web Application using Axum: The AwesomeApp Blueprint for Professional Web Development.
 - [dolbydu/font](https://github.com/dolbydu/font) - 
