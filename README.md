@@ -389,6 +389,7 @@
 
 ## Rust 
 
+- [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 - [peshwar9/rust-servers-services-apps](https://github.com/peshwar9/rust-servers-services-apps) - Code for Manning book - Rust Servers, Services and Apps.
 - [rust10x/rust-web-app](https://github.com/rust10x/rust-web-app) - Code template for a production Web Application using Axum: The AwesomeApp Blueprint for Professional Web Development.
 - [rust-lang-cn/book-cn](https://github.com/rust-lang-cn/book-cn) - Rust  程序设计语言 中文版——Chinese translation of The Rust Programming Language (Book)
