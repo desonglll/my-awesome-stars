@@ -159,6 +159,7 @@
 
 ## JavaScript 
 
+- [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
 - [matschik/component-party.dev](https://github.com/matschik/component-party.dev) - 🎉 Web component JS frameworks overview by their syntax and features
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) - 收录商用免费汉字字体，还包括开源英文字体 Free Font
