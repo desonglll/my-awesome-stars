@@ -263,7 +263,7 @@
 ## Others 
 
 - [dolbydu/font](https://github.com/dolbydu/font) - 
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [thunder439/QNAS4](https://github.com/thunder439/QNAS4) - 4盘位NAS
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [thunder439/QNASMINI](https://github.com/thunder439/QNASMINI) - QNAS MINI是6盘位2.5寸NAS
