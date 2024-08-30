@@ -7,6 +7,7 @@
 
 - [ai](#ai)
 - [algorithm](#algorithm)
+- [android](#android)
 - [angular](#angular)
 - [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
@@ -173,6 +174,10 @@
 - [hao14293/2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408) - 💯✍备考2021年研究生-408
 - [SharingSource/LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode) - 公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码
 - [doongz/notes](https://github.com/doongz/notes) - 算法｜技能｜知识｜数学
+
+## android 
+
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 
 ## angular 
 
@@ -848,6 +853,7 @@
 
 ## others 
 
+- [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD) - 
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [peshwar9/rust-servers-services-apps](https://github.com/peshwar9/rust-servers-services-apps) - Code for Manning book - Rust Servers, Services and Apps.
 - [nndl/exercise](https://github.com/nndl/exercise) - exercise for nndl
