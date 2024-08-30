@@ -217,6 +217,7 @@
 
 ## Kotlin 
 
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [unit-mesh/auto-dev](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard（开源 AI  编程助手） with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Do
 
 ## Less 
@@ -263,6 +264,7 @@
 
 ## Others 
 
+- [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD) - 
 - [dolbydu/font](https://github.com/dolbydu/font) - 
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [thunder439/QNAS4](https://github.com/thunder439/QNAS4) - 4盘位NAS
