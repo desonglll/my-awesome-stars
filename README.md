@@ -264,6 +264,7 @@
 
 ## Others 
 
+- [PlexPt/chatgpt-corpus](https://github.com/PlexPt/chatgpt-corpus) - ChatGPT 中文语料库 对话语料 小说语料 客服语料 用于训练大模型
 - [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD) - 
 - [dolbydu/font](https://github.com/dolbydu/font) - 
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
