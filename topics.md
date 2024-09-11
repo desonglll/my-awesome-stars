@@ -42,6 +42,7 @@
 - [deep-learning](#deep-learning)
 - [deno](#deno)
 - [deployment](#deployment)
+- [devops](#devops)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -377,6 +378,10 @@
 
 - [lxztju/pytorch_classification](https://github.com/lxztju/pytorch_classification) - 利用pytorch实现图像分类的一个完整的代码，训练，预测，TTA，模型融合，模型部署，cnn提取特征，svm或者随机森林等进行分类，模型蒸馏，一个完整的代码
 
+## devops 
+
+- [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
+
 ## django 
 
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
@@ -629,6 +634,7 @@
 
 ## kubernetes 
 
+- [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
 - [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 二丫讲梵👇博客--fork走内容却不更改，太烦了，此处将不再更新内容。若要浏览新内容，请到下边博客。
 
 ## language 
