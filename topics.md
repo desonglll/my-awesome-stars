@@ -893,6 +893,7 @@
 
 ## others 
 
+- [rustx-labs/effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn) - Effective Rust 中文版
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone) - 线性代数：未竟之美
 - [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD) - 
