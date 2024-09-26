@@ -328,7 +328,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [JackChen890311/NTU-ADL-HW-2023Fall](https://github.com/JackChen890311/NTU-ADL-HW-2023Fall) - Course homeworks of ADL (Applied Deep Learning) at NTU (National Taiwan University) teached by Yun-Nung Vivian  Chen, 2023 Fall
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
-- [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
+- [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection [NeurIPS 2024]
 - [nigauri1215/NTU-2023Fall-ADL](https://github.com/nigauri1215/NTU-2023Fall-ADL) - Deep Learning 深度學習之應用 by Vivian Chen 陳縕儂 at NTU CSIE
 - [roy0428/ADL_Final](https://github.com/roy0428/ADL_Final) - NTU ADL 2023
 - [roy0428/ADL_HW1](https://github.com/roy0428/ADL_HW1) - NTU ADL 2023
