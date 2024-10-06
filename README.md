@@ -471,6 +471,7 @@
 
 ## Swift 
 
+- [sheshbabu/Chital](https://github.com/sheshbabu/Chital) - A native macOS app for chatting with local LLMs
 - [groue/GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
 - [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
@@ -486,6 +487,7 @@
 
 ## TeX 
 
+- [leouieda/cv](https://github.com/leouieda/cv) - A LaTeX template for academic CVs
 - [yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone) - 线性代数：未竟之美
 - [gboeing/cv](https://github.com/gboeing/cv) - Geoff Boeing's academic CV in LaTeX
 - [jdavis/latex-homework-template](https://github.com/jdavis/latex-homework-template) - 🎓📄 The LaTeX file that I used as the base for all my homework in university.
