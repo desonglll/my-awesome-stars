@@ -43,6 +43,7 @@
 - [deep-learning](#deep-learning)
 - [deno](#deno)
 - [deployment](#deployment)
+- [design](#design)
 - [devops](#devops)
 - [django](#django)
 - [docker](#docker)
@@ -292,6 +293,7 @@
 
 ## cli 
 
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
@@ -387,6 +389,10 @@
 ## deployment 
 
 - [lxztju/pytorch_classification](https://github.com/lxztju/pytorch_classification) - 利用pytorch实现图像分类的一个完整的代码，训练，预测，TTA，模型融合，模型部署，cnn提取特征，svm或者随机森林等进行分类，模型蒸馏，一个完整的代码
+
+## design 
+
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## devops 
 
@@ -1125,6 +1131,7 @@
 
 ## programming 
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
@@ -1139,6 +1146,7 @@
 
 ## python 
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
@@ -1444,12 +1452,14 @@
 
 ## web 
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 ## webapp 
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 
