@@ -477,6 +477,7 @@
 
 ## font 
 
+- [adobe-fonts/source-han-mono](https://github.com/adobe-fonts/source-han-mono) - Source Han Mono | 思源等宽 | 思源等寬 | 思源等寬 香港 | 源ノ等幅 | 본모노
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) - 收录商用免费汉字字体，还包括开源英文字体 Free Font
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
@@ -924,6 +925,7 @@
 
 ## others 
 
+- [life888888/cjk-fonts-ttf](https://github.com/life888888/cjk-fonts-ttf) - Provide Noto Sans CJK, Noto Sans Mono CJK, Noto Serif CJK TTF. 4 Style (Regular, Bold, Italic, BoldItalic)
 - [GooseCoding/utilsbox](https://github.com/GooseCoding/utilsbox) - 一个程序员常用的工具库，好用且无广告
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [goldcoders/Rust](https://github.com/goldcoders/Rust) - 
