@@ -144,6 +144,7 @@
 
 ## Haskell 
 
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [NeuralNine/config-files](https://github.com/NeuralNine/config-files) - A collection of my config files.
 
 ## Java 
