@@ -562,6 +562,7 @@
 
 ## Vim Script 
 
+- [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
 - [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 - [servetgulnaroglu/vim-config](https://github.com/servetgulnaroglu/vim-config) - 
 - [imxiejie/ThinkVim](https://github.com/imxiejie/ThinkVim) - Vim configuration in the 21st century
