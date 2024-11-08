@@ -125,6 +125,7 @@
 
 ## HTML 
 
+- [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) - Home of the Rust and Inside Rust blogs
 - [BartMassey/gc2024-rust-embedded-workshop](https://github.com/BartMassey/gc2024-rust-embedded-workshop) - GOSIM CHINA 2024 Rust Embedded Workshop
 - [lehongwen/awesome-edge-computing](https://github.com/lehongwen/awesome-edge-computing) - 边缘计算工程，从边缘计算概念、标准、软件系统、工程到商业应用。
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -411,6 +412,8 @@
 
 ## Rust 
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+- [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
 - [furkan-guvenc/crud_routers](https://github.com/furkan-guvenc/crud_routers) - Automatically create crud routes for your favorite api server and orm
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -532,6 +535,7 @@
 
 ## TypeScript 
 
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
 - [hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react) - ⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。
