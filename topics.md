@@ -23,6 +23,7 @@
 - [bash](#bash)
 - [blockchain](#blockchain)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -202,6 +203,7 @@
 
 ## android 
 
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
@@ -279,6 +281,10 @@
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [Estom/notes](https://github.com/Estom/notes) - 一个码农的毕生所学!笔记 & 教程。考研,就业,上学.语言篇，Android,C++,Java,JavaScript,Latex,MATLAB,NodeJS,PHP,Python,技术篇,docker,git,Linux,Maven,office,Spark,Spring,SVN,基础篇,编译原理,操作系统,单片机,计算机网络,计算机网络实验,架构模式,软件文档写作,设计模式,数据结构,数据库,算
 
+## c-plus-plus 
+
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+
 ## chatbot 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -344,6 +350,7 @@
 
 ## computer-vision 
 
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 
 ## config 
@@ -407,6 +414,7 @@
 
 ## deep-learning 
 
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [roatienza/Deep-Learning-Experiments](https://github.com/roatienza/Deep-Learning-Experiments) - Videos, notes and experiments to understand deep learning
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
@@ -531,6 +539,7 @@
 
 ## framework 
 
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [furkan-guvenc/crud_routers](https://github.com/furkan-guvenc/crud_routers) - Automatically create crud routes for your favorite api server and orm
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library that includes many commonly used components and frameworks, and a new scripting language interpreter. It currently supports C99 and Aspect-Oriented Programming (AOP)
@@ -806,6 +815,7 @@
 
 ## machine-learning 
 
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [Visualize-ML/Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning) - Book_7_《机器学习》 |   鸢尾花书：从加减乘除到机器学习；欢迎批评指正
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
