@@ -281,10 +281,10 @@
 
 ## Others 
 
+- [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 - [hepochen/fonts](https://github.com/hepochen/fonts) - 
 - [adobe-fonts/source-han-mono](https://github.com/adobe-fonts/source-han-mono) - Source Han Mono | 思源等宽 | 思源等寬 | 思源等寬 香港 | 源ノ等幅 | 본모노
 - [goldcoders/Rust](https://github.com/goldcoders/Rust) - 
-- [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 - [PlexPt/chatgpt-corpus](https://github.com/PlexPt/chatgpt-corpus) - ChatGPT 中文语料库 对话语料 小说语料 客服语料 用于训练大模型
 - [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD) - 
 - [dolbydu/font](https://github.com/dolbydu/font) - 
