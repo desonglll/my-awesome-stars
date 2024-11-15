@@ -1015,6 +1015,7 @@
 
 ## others 
 
+- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 - [hepochen/fonts](https://github.com/hepochen/fonts) - 
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
