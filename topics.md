@@ -1015,6 +1015,7 @@
 
 ## others 
 
+- [ash2228/rust-portscanner](https://github.com/ash2228/rust-portscanner) - 
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 - [hepochen/fonts](https://github.com/hepochen/fonts) - 
