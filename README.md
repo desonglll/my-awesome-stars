@@ -417,6 +417,7 @@
 
 ## Rust 
 
+- [ash2228/rust-portscanner](https://github.com/ash2228/rust-portscanner) - 
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
