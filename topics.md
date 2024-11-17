@@ -1015,6 +1015,8 @@
 
 ## others 
 
+- [AndreyGermanov/yolov8_onnx_rust](https://github.com/AndreyGermanov/yolov8_onnx_rust) - YOLOv8 inference using Rust
+- [AndreyGermanov/yolov8_onnx_rust_segmentation](https://github.com/AndreyGermanov/yolov8_onnx_rust_segmentation) - YOLOv8 Segmentation with Rust
 - [ash2228/rust-portscanner](https://github.com/ash2228/rust-portscanner) - 
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
