@@ -418,6 +418,7 @@
 
 ## Rust 
 
+- [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework.
 - [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
 - [AndreyGermanov/yolov8_onnx_rust](https://github.com/AndreyGermanov/yolov8_onnx_rust) - YOLOv8 inference using Rust
 - [AndreyGermanov/yolov8_onnx_rust_segmentation](https://github.com/AndreyGermanov/yolov8_onnx_rust_segmentation) - YOLOv8 Segmentation with Rust
