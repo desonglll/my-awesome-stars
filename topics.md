@@ -1032,6 +1032,7 @@
 
 ## others 
 
+- [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
 - [AndreyGermanov/yolov8_onnx_rust](https://github.com/AndreyGermanov/yolov8_onnx_rust) - YOLOv8 inference using Rust
 - [AndreyGermanov/yolov8_onnx_rust_segmentation](https://github.com/AndreyGermanov/yolov8_onnx_rust_segmentation) - YOLOv8 Segmentation with Rust
 - [ash2228/rust-portscanner](https://github.com/ash2228/rust-portscanner) - 
