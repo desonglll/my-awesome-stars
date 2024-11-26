@@ -531,6 +531,7 @@
 
 ## TeX 
 
+- [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn) - A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 - [MeouSker77/ProgrammingRust](https://github.com/MeouSker77/ProgrammingRust) - 本书为《Programming Rust - Fast, Safe Systems Development》第2版的个人中文翻译，仅供学习和交流使用，如有侵权请联系作者删除
 - [geekplux/cv_resume](https://github.com/geekplux/cv_resume) - A latex cv/resume template.
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
