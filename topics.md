@@ -94,6 +94,7 @@
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
+- [localization](#localization)
 - [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
@@ -806,6 +807,10 @@
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.2, Mistral, Phi, Qwen 2.5 & Gemma LLMs 2-5x faster with 80% less memory
 - [MiuLab/Taiwan-LLM](https://github.com/MiuLab/Taiwan-LLM) - Traditional Mandarin LLMs for Taiwan
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
+
+## localization 
+
+- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 
 ## low-code 
 
