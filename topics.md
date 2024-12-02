@@ -1042,6 +1042,7 @@
 
 ## others 
 
+- [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) - More than just IM 不只是即时通讯( IM )
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn) - A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
