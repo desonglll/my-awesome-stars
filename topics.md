@@ -1092,7 +1092,7 @@
 - [imyanger/yblog](https://github.com/imyanger/yblog) - 个人博客项目（SpringBoot + Vue + MySQL）
 - [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS
 - [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf) - Using GPT to parse PDF
-- [Pintree-io/pintree](https://github.com/Pintree-io/pintree) - An intuitive tool for managing and exporting your local bookmarks into a shareable website.
+- [Pintree-io/pintree](https://github.com/Pintree-io/pintree) - Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes.
 - [thunder439/QNAS4](https://github.com/thunder439/QNAS4) - 4盘位NAS
 - [thunder439/QNASMINI](https://github.com/thunder439/QNASMINI) - QNAS MINI是6盘位2.5寸NAS
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
