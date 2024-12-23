@@ -434,6 +434,7 @@
 
 ## Rust 
 
+- [rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [cksac/fake-rs](https://github.com/cksac/fake-rs) - A library for generating fake data in Rust.
 - [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
