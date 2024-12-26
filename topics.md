@@ -522,6 +522,7 @@
 
 ## electron 
 
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -597,6 +598,7 @@
 
 ## github 
 
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [maxiaof/github-hosts](https://github.com/maxiaof/github-hosts) - 通过修改Hosts解决国内Github经常抽风访问不到,每日更新
 - [Licoy/fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~ | Synchronize GitHub hosts tool, support multi-platform graphical and command line, built-in client and server modes
 
@@ -1707,6 +1709,7 @@
 
 ## vue 
 
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [dibo-software/diboot](https://github.com/dibo-software/diboot) - 写的更少, 性能更好 -&gt; 为开发人员打造的低代码开发平台。mybatis-plus关联查询，关联无SQL，性能高10倍，前后端代码本地可视化生成，flowable工作流，spring cloud微服务等全方位赋能！
 - [matschik/component-party.dev](https://github.com/matschik/component-party.dev) - 🎉 Web component JS frameworks overview by their syntax and features
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
