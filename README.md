@@ -417,7 +417,6 @@
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [nukemiko/takiyasha](https://github.com/nukemiko/takiyasha) - Python 版本的命令行文件解密工具。切勿大肆宣传此项目。
 - [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
 - [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi) - 强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
