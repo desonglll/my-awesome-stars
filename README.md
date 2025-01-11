@@ -529,6 +529,7 @@
 - [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
+- [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装脚本
@@ -575,7 +576,6 @@
 - [yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone) - 线性代数：未竟之美
 - [gboeing/cv](https://github.com/gboeing/cv) - Geoff Boeing's academic CV in LaTeX
 - [jdavis/latex-homework-template](https://github.com/jdavis/latex-homework-template) - 🎓📄 The LaTeX file that I used as the base for all my homework in university.
-- [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [Digital-Media/HagenbergThesis](https://github.com/Digital-Media/HagenbergThesis) - Hagenberg LaTeX Thesis Template
 - [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) - 《Machine Learning Systems: Design and Implementation》- Chinese Version
 - [zachscrivena/simple-resume-cv](https://github.com/zachscrivena/simple-resume-cv) - Template for a simple resume or curriculum vitae (CV), in XeLaTeX.
