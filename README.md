@@ -293,6 +293,7 @@
 
 ## Others 
 
+- [MDsub/mdsub.top](https://github.com/MDsub/mdsub.top) - repo for mdsub.top. powered by vitepress, host on cloudflare pages
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 - [hepochen/fonts](https://github.com/hepochen/fonts) - 
