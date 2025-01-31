@@ -148,7 +148,6 @@
 - [QianJianTech/LaTeXLive](https://github.com/QianJianTech/LaTeXLive) - LateX公式编辑器-妈叔出品
 - [huangyz0918/personal-page-blog](https://github.com/huangyz0918/personal-page-blog) - personal blog 🕶
 - [Erxionglsx/Erxionglsx.github.io](https://github.com/Erxionglsx/Erxionglsx.github.io) - 我是二雄，为了更好的复习和理解所学的知识，将自己在视频网站和博客所学知识摘抄总结成了笔记。
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 
 ## Haskell 
@@ -441,6 +440,7 @@
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [Hthing/yzw](https://github.com/Hthing/yzw) - scrapy爬取研招网专业信息
 - [ChemLez/xmcTiaoJiInformation_Pachong](https://github.com/ChemLez/xmcTiaoJiInformation_Pachong) - 爬虫。考研调剂信息。主要爬取小木虫网站的调剂信息。可以爬取任何年份，任何专业的调剂信息。爬取内容包括：标题，学校名称，专业、招生人数、发布时间、学校发布调剂的网页链接。主要用到的库:BeautifulSoup,requests,re。
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [fuergaosi233/gitbook2pdf](https://github.com/fuergaosi233/gitbook2pdf) - Grab the contents of the gitbook document and convert it to pdf
 - [mkdocs/mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) - Open source plugin for Mkdocs page redirects
 - [timvink/mkdocs-git-revision-date-localized-plugin](https://github.com/timvink/mkdocs-git-revision-date-localized-plugin) - MkDocs plugin to add a last updated date to your site pages
