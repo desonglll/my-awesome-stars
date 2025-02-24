@@ -1134,6 +1134,7 @@
 
 ## others 
 
+- [runningcheese/MirrorSite](https://github.com/runningcheese/MirrorSite) - 镜像网站合集
 - [SniperGER/iOS-Wallpapers](https://github.com/SniperGER/iOS-Wallpapers) - An archive of every iOS wallpaper officially released by Apple
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end.
