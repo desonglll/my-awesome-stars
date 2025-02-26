@@ -230,6 +230,7 @@
 
 ## Jupyter Notebook 
 
+- [PrestonYU/Natural-Language-Processing-with-Python](https://github.com/PrestonYU/Natural-Language-Processing-with-Python) - Burgeoning Course AI Learning Hub - Natural Language Processing Basics
 - [nlp-with-transformers/notebooks](https://github.com/nlp-with-transformers/notebooks) - Jupyter notebooks for the Natural Language Processing with Transformers book
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 - [ibaiGorordo/Sapiens-Pytorch-Inference](https://github.com/ibaiGorordo/Sapiens-Pytorch-Inference) - Minimal code and examnples for inferencing Sapiens foundation human models in Pytorch
