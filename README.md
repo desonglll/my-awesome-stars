@@ -13,6 +13,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
+- [Elixir](#elixir)
 - [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
@@ -106,6 +107,10 @@
 ## EJS 
 
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
+
+## Elixir 
+
+- [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 
 ## Fluent 
 
@@ -306,6 +311,7 @@
 
 ## Others 
 
+- [rust-lang/rust-artwork](https://github.com/rust-lang/rust-artwork) - Official artwork for the Rust project.
 - [runningcheese/MirrorSite](https://github.com/runningcheese/MirrorSite) - 镜像网站合集
 - [SniperGER/iOS-Wallpapers](https://github.com/SniperGER/iOS-Wallpapers) - An archive of every iOS wallpaper officially released by Apple
 - [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan) - 机场推荐与机场评测
