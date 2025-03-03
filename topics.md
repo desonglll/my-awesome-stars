@@ -57,6 +57,7 @@
 - [dotfiles](#dotfiles)
 - [education](#education)
 - [electron](#electron)
+- [elixir](#elixir)
 - [emacs](#emacs)
 - [ember](#ember)
 - [emoji](#emoji)
@@ -547,6 +548,10 @@
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
+
+## elixir 
+
+- [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 
 ## emacs 
 
@@ -1135,6 +1140,7 @@
 
 ## others 
 
+- [rust-lang/rust-artwork](https://github.com/rust-lang/rust-artwork) - Official artwork for the Rust project.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [runningcheese/MirrorSite](https://github.com/runningcheese/MirrorSite) - 镜像网站合集
 - [SniperGER/iOS-Wallpapers](https://github.com/SniperGER/iOS-Wallpapers) - An archive of every iOS wallpaper officially released by Apple
