@@ -308,6 +308,7 @@
 
 ## c-plus-plus 
 
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
 ## chatbot 
@@ -530,6 +531,7 @@
 
 ## dotfiles 
 
+- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [Avimitin/nvim](https://github.com/Avimitin/nvim) - Handy, maintainable, multi-languages supported neovim configuration.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -1151,6 +1153,7 @@
 
 ## others 
 
+- [eliheuer/bezy](https://github.com/eliheuer/bezy) - A font editor built with Bevy
 - [Steven-Zhl/YNU_IST_Courses](https://github.com/Steven-Zhl/YNU_IST_Courses) - 云南大学 信息学院 智能科学与技术 课程资源
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
@@ -1389,6 +1392,7 @@
 
 ## package-manager 
 
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 
 ## pentesting 
