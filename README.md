@@ -644,6 +644,7 @@
 
 ## TypeScript 
 
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
