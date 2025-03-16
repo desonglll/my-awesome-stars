@@ -1155,6 +1155,7 @@
 
 ## others 
 
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 - [zzr-idam/UVM-Net](https://github.com/zzr-idam/UVM-Net) - U-shaped Vision Mamba for Single Image Dehazing
 - [eliheuer/bezy](https://github.com/eliheuer/bezy) - A font editor built with Bevy
 - [Steven-Zhl/YNU_IST_Courses](https://github.com/Steven-Zhl/YNU_IST_Courses) - 云南大学 信息学院 智能科学与技术 课程资源
