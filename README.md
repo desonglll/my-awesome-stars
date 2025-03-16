@@ -387,6 +387,7 @@
 
 ## Python 
 
+- [zzr-idam/UVM-Net](https://github.com/zzr-idam/UVM-Net) - U-shaped Vision Mamba for Single Image Dehazing
 - [Steven-Zhl/YNU_IST_Courses](https://github.com/Steven-Zhl/YNU_IST_Courses) - 云南大学 信息学院 智能科学与技术 课程资源
 - [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
