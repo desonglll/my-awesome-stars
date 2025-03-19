@@ -192,6 +192,7 @@
 
 ## JavaScript 
 
+- [boundaryattention/boundaryattention.github.io](https://github.com/boundaryattention/boundaryattention.github.io) - 
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
@@ -388,6 +389,7 @@
 
 ## Python 
 
+- [bowang-lab/U-Mamba](https://github.com/bowang-lab/U-Mamba) - U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation
 - [zzr-idam/UVM-Net](https://github.com/zzr-idam/UVM-Net) - U-shaped Vision Mamba for Single Image Dehazing
 - [Steven-Zhl/YNU_IST_Courses](https://github.com/Steven-Zhl/YNU_IST_Courses) - 云南大学 信息学院 智能科学与技术 课程资源
 - [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
