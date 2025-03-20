@@ -1155,6 +1155,7 @@
 
 ## others 
 
+- [fschutt/rust-fontconfig](https://github.com/fschutt/rust-fontconfig) - Pure-Rust rewrite of the Linux fontconfig library (no system dependencies) - using ttf-parser and allsorts
 - [bowang-lab/U-Mamba](https://github.com/bowang-lab/U-Mamba) - U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation
 - [boundaryattention/boundaryattention.github.io](https://github.com/boundaryattention/boundaryattention.github.io) - 
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
