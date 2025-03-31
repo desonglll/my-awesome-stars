@@ -193,6 +193,7 @@
 
 ## ai 
 
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
@@ -1162,6 +1163,7 @@
 
 ## others 
 
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
 - [fschutt/rust-fontconfig](https://github.com/fschutt/rust-fontconfig) - Pure-Rust rewrite of the Linux fontconfig library (no system dependencies) - using ttf-parser and allsorts
 - [bowang-lab/U-Mamba](https://github.com/bowang-lab/U-Mamba) - U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation
