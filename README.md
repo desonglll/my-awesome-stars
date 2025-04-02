@@ -16,6 +16,7 @@
 - [EJS](#ejs)
 - [Elixir](#elixir)
 - [Fluent](#fluent)
+- [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -122,6 +123,10 @@
 ## Fluent 
 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
+## GLSL 
+
+- [sixthsurge/photon](https://github.com/sixthsurge/photon) - A gameplay-focused shader pack for Minecraft
 
 ## Go 
 
