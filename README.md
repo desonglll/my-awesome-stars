@@ -154,6 +154,7 @@
 
 ## HTML 
 
+- [tech-shrimp/grok-playground](https://github.com/tech-shrimp/grok-playground) - 【技术爬爬虾】10秒部署一个Grok3国内镜像网站，支持多账户聚合，单账户额度不够可秒换账号。
 - [netnr/kms](https://github.com/netnr/kms) - KMS 激活服务，slmgr 命令激活 Windows 系统、Office
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
