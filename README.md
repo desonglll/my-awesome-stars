@@ -509,6 +509,7 @@
 
 ## Rust 
 
+- [YuniqueUnic/cargo-thanku](https://github.com/YuniqueUnic/cargo-thanku) - cargo-thanku | Rust Dependency Acknowledgment Generator 🦀 ❤️‍🔥 Enhanced cargo-thanks, give an Acknowledgment to your rust project for thanks. Automatically generate polished acknowledgments for your R
 - [fschutt/rust-fontconfig](https://github.com/fschutt/rust-fontconfig) - Pure-Rust rewrite of the Linux fontconfig library (no system dependencies) - using ttf-parser and allsorts
 - [eliheuer/bezy](https://github.com/eliheuer/bezy) - A font editor built with Bevy
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
