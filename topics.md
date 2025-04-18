@@ -108,6 +108,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [maven](#maven)
+- [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -1011,6 +1012,10 @@
 
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 
+## microsoft 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+
 ## minecraft 
 
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
@@ -1171,6 +1176,7 @@
 
 ## others 
 
+- [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [c-yn/OKNet](https://github.com/c-yn/OKNet) - [AAAI2024] Omni-Kernel Network for Image Restoration
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please l
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
@@ -1446,6 +1452,7 @@
 
 ## powershell 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [jiaxinaoliao/neovimBeginCpp](https://github.com/jiaxinaoliao/neovimBeginCpp) - 纯lua配置的neovim快速配置（基本开箱即用）
 
 ## privacy 
@@ -1908,6 +1915,7 @@
 
 ## windows 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [netnr/kms](https://github.com/netnr/kms) - KMS 激活服务，slmgr 命令激活 Windows 系统、Office
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
