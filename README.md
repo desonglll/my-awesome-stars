@@ -411,6 +411,7 @@
 
 ## Python 
 
+- [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
 - [c-yn/OKNet](https://github.com/c-yn/OKNet) - [AAAI2024] Omni-Kernel Network for Image Restoration
 - [ahua/dataset](https://github.com/ahua/dataset) - 
