@@ -1116,6 +1116,7 @@
 
 ## nextjs 
 
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -1797,6 +1798,7 @@
 
 ## tailwindcss 
 
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
 - [Cubxity/typstudio](https://github.com/Cubxity/typstudio) - A W.I.P desktop application for a new typesetting language, typst.
 - [anujjamdade007/sharemysnaps](https://github.com/anujjamdade007/sharemysnaps) - Create and Share Stunning Digital Albums
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -1843,6 +1845,7 @@
 
 ## typescript 
 
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [Cubxity/typstudio](https://github.com/Cubxity/typstudio) - A W.I.P desktop application for a new typesetting language, typst.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
