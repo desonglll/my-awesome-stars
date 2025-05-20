@@ -72,6 +72,7 @@
 
 ## C++ 
 
+- [Kolcha/DigitalClock5](https://github.com/Kolcha/DigitalClock5) - beautiful highly customizable clock with plugins
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
