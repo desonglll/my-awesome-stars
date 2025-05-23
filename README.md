@@ -72,6 +72,7 @@
 
 ## C++ 
 
+- [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [Kolcha/DigitalClock5](https://github.com/Kolcha/DigitalClock5) - beautiful highly customizable clock with plugins
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -415,6 +416,7 @@
 
 ## Python 
 
+- [hyunwoongko/transformer](https://github.com/hyunwoongko/transformer) - Transformer: PyTorch Implementation of "Attention Is All You Need"
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
