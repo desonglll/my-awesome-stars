@@ -1478,6 +1478,7 @@
 
 ## package-manager 
 
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
@@ -1654,6 +1655,7 @@
 
 ## rust 
 
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
