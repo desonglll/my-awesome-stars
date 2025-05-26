@@ -700,6 +700,7 @@
 
 ## google 
 
+- [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。🚀 Free subscription address, 🚀 Free node, 🚀 Updated every 6 hours, shared node, high-quality node
@@ -1089,6 +1090,7 @@
 
 ## natural-language-processing 
 
+- [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [vaaaaanquish/Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) - This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
@@ -1144,6 +1146,7 @@
 
 ## nlp 
 
+- [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [crownpku/Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP) - A curated list of resources for Chinese NLP 中文自然语言处理相关资料
 - [PrestonYU/Natural-Language-Processing-with-Python](https://github.com/PrestonYU/Natural-Language-Processing-with-Python) - Burgeoning Course AI Learning Hub - Natural Language Processing Basics
@@ -1857,6 +1860,7 @@
 
 ## tensorflow 
 
+- [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [Jack-Cherish/Deep-Learning](https://github.com/Jack-Cherish/Deep-Learning) - :computer:深度学习实战：手写数字识别、Discuz验证码识别、垃圾分类、语义分割
 
