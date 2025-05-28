@@ -34,6 +34,7 @@
 - [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [R](#r)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -534,6 +535,10 @@
 - [timvink/mkdocs-git-revision-date-localized-plugin](https://github.com/timvink/mkdocs-git-revision-date-localized-plugin) - MkDocs plugin to add a last updated date to your site pages
 - [byrnereese/mkdocs-minify-plugin](https://github.com/byrnereese/mkdocs-minify-plugin) - A mkdocs plugin to minify the HTML of a page before it is written to disk.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+
+## R 
+
+- [selva86/datasets](https://github.com/selva86/datasets) - A collection of datasets of ML problem solving
 
 ## Roff 
 
