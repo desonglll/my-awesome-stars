@@ -122,6 +122,7 @@
 - [nextjs](#nextjs)
 - [nlp](#nlp)
 - [no-code](#no-code)
+- [node](#node)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
 - [npm](#npm)
@@ -184,6 +185,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
+- [unity](#unity)
 - [vim](#vim)
 - [vpn](#vpn)
 - [vue](#vue)
@@ -658,6 +660,7 @@
 
 ## git 
 
+- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -800,6 +803,7 @@
 
 ## javascript 
 
+- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
@@ -1166,6 +1170,10 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 
+## node 
+
+- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
+
 ## nodejs 
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -1230,6 +1238,9 @@
 
 ## others 
 
+- [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
+- [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
+- [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) - Switch and track your input sources with ease ✨
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
@@ -1934,6 +1945,10 @@
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf) - Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework Rea
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+
+## unity 
+
+- [Unity-Technologies/megacity-metro](https://github.com/Unity-Technologies/megacity-metro) - Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, d
 
 ## vim 
 
