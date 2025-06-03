@@ -1245,6 +1245,7 @@
 
 ## others 
 
+- [davidADSP/GDL_code](https://github.com/davidADSP/GDL_code) - The official code repository for examples in the O'Reilly book 'Generative Deep Learning'
 - [selva86/datasets](https://github.com/selva86/datasets) - A collection of datasets of ML problem solving
 - [mhagiwara/100-nlp-papers](https://github.com/mhagiwara/100-nlp-papers) - 100 Must-Read NLP Papers
 - [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
