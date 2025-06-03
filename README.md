@@ -270,6 +270,7 @@
 
 ## Jupyter Notebook 
 
+- [davidADSP/GDL_code](https://github.com/davidADSP/GDL_code) - The official code repository for examples in the O'Reilly book 'Generative Deep Learning'
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [PrestonYU/Natural-Language-Processing-with-Python](https://github.com/PrestonYU/Natural-Language-Processing-with-Python) - Burgeoning Course AI Learning Hub - Natural Language Processing Basics
 - [nlp-with-transformers/notebooks](https://github.com/nlp-with-transformers/notebooks) - Jupyter notebooks for the Natural Language Processing with Transformers book
