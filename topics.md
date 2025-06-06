@@ -1259,6 +1259,7 @@
 
 ## others 
 
+- [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 - [selva86/datasets](https://github.com/selva86/datasets) - A collection of datasets of ML problem solving
 - [mhagiwara/100-nlp-papers](https://github.com/mhagiwara/100-nlp-papers) - 100 Must-Read NLP Papers
 - [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
