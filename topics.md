@@ -1709,6 +1709,7 @@
 
 ## rust 
 
+- [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
