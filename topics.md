@@ -210,7 +210,7 @@
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -270,7 +270,7 @@
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 
 ## awesome 
@@ -955,7 +955,7 @@
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [sheshbabu/Chital](https://github.com/sheshbabu/Chital) - A native macOS app for chatting with local LLMs
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥
@@ -970,7 +970,7 @@
 ## low-code 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [dibo-software/diboot](https://github.com/dibo-software/diboot) - 写的更少, 性能更好 -&gt; 为开发人员打造的低代码开发框架，基础框架可免写90%的SQL，同时具备极强的零代码模型表单页面流程的设计能力和代码生成能力，可在pro-code、low-code、no-code之间自由选择灵活切换，全方位赋能开发。
 
 ## lua 
@@ -1170,7 +1170,7 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
@@ -1188,7 +1188,7 @@
 ## no-code 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
 ## node 
 
@@ -1238,7 +1238,7 @@
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -1589,7 +1589,7 @@
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [anatolykopyl/youtube-cdl](https://github.com/anatolykopyl/youtube-cdl) - 📼 Bulk youtube subscription download
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [ibaiGorordo/Sapiens-Pytorch-Inference](https://github.com/ibaiGorordo/Sapiens-Pytorch-Inference) - Minimal code and examnples for inferencing Sapiens foundation human models in Pytorch
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 - [fonttools/fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
