@@ -1260,6 +1260,7 @@
 
 ## others 
 
+- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [DeepReinforcementLearning/DeepReinforcementLearningInAction](https://github.com/DeepReinforcementLearning/DeepReinforcementLearningInAction) - Code from the Deep Reinforcement Learning in Action book from Manning, Inc
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 - [selva86/datasets](https://github.com/selva86/datasets) - A collection of datasets of ML problem solving
