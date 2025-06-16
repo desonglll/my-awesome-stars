@@ -1261,6 +1261,7 @@
 
 ## others 
 
+- [guandeh17/Self-Forcing](https://github.com/guandeh17/Self-Forcing) - 
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [DeepReinforcementLearning/DeepReinforcementLearningInAction](https://github.com/DeepReinforcementLearning/DeepReinforcementLearningInAction) - Code from the Deep Reinforcement Learning in Action book from Manning, Inc
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
