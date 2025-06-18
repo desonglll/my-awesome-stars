@@ -64,7 +64,6 @@
 - [emoji](#emoji)
 - [english](#english)
 - [ethereum](#ethereum)
-- [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
@@ -636,10 +635,6 @@
 ## ethereum 
 
 - [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install, run and deploy your own decentralized AI agent service
-
-## firefox 
-
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 
 ## flask 
 
