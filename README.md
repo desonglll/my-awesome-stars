@@ -273,6 +273,8 @@
 
 ## Jupyter Notebook 
 
+- [NEU502B/neu502b-2025](https://github.com/NEU502B/neu502b-2025) - Code for NEU 502B lab 2025
+- [NEU502B/neu502b-lab](https://github.com/NEU502B/neu502b-lab) - 
 - [DeepReinforcementLearning/DeepReinforcementLearningInAction](https://github.com/DeepReinforcementLearning/DeepReinforcementLearningInAction) - Code from the Deep Reinforcement Learning in Action book from Manning, Inc
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 - [davidADSP/Generative_Deep_Learning_2nd_Edition](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition) - The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play.
