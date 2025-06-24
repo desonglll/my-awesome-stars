@@ -311,6 +311,7 @@
 
 ## Lua 
 
+- [zapling/mason-conform.nvim](https://github.com/zapling/mason-conform.nvim) - Automatically install formatters registered with conform.nvim via mason.nvim
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) - Low latency typst preview for Neovim
 - [xiyaowong/transparent.nvim](https://github.com/xiyaowong/transparent.nvim) - Remove all background colors to make nvim transparent
