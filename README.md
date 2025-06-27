@@ -655,6 +655,7 @@
 
 ## SCSS 
 
+- [chaselambda/makefiletutorial](https://github.com/chaselambda/makefiletutorial) - Learn make by example
 - [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) - 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
 - [huangyz0918/moving](https://github.com/huangyz0918/moving) - A clean and minimalist theme for Jekyll.
 
