@@ -1279,6 +1279,7 @@
 
 ## others 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [chaselambda/makefiletutorial](https://github.com/chaselambda/makefiletutorial) - Learn make by example
 - [NEU502B/neu502b-2025](https://github.com/NEU502B/neu502b-2025) - Code for NEU 502B lab 2025
 - [NEU502B/neu502b-lab](https://github.com/NEU502B/neu502b-lab) - 
