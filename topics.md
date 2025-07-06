@@ -1040,6 +1040,7 @@
 
 ## macos 
 
+- [Tao93/NetTool](https://github.com/Tao93/NetTool) - macOS 状态栏小工具实时显示网速. macOS menubar tool to monitor network speed.
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
