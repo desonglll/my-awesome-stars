@@ -437,6 +437,7 @@
 
 ## Python 
 
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [JulietaUla/Montserrat](https://github.com/JulietaUla/Montserrat) - 
 - [guandeh17/Self-Forcing](https://github.com/guandeh17/Self-Forcing) - 
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
