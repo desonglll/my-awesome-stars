@@ -438,6 +438,7 @@
 
 ## Python 
 
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [JulietaUla/Montserrat](https://github.com/JulietaUla/Montserrat) - 
 - [guandeh17/Self-Forcing](https://github.com/guandeh17/Self-Forcing) - 
