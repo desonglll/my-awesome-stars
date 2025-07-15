@@ -365,6 +365,7 @@
 
 ## Others 
 
+- [jobbole/awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) - C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。
 - [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
 - [Haixing-Hu/latex-chinese-fonts](https://github.com/Haixing-Hu/latex-chinese-fonts) - Simplified Chinese fonts for the LaTeX typesetting.
 - [mhagiwara/100-nlp-papers](https://github.com/mhagiwara/100-nlp-papers) - 100 Must-Read NLP Papers
