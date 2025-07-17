@@ -574,6 +574,7 @@
 
 ## Rust 
 
+- [trymirai/uzu](https://github.com/trymirai/uzu) - A high-performance inference engine for AI models
 - [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects
