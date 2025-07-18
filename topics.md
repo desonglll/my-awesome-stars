@@ -1009,6 +1009,7 @@
 
 ## lua 
 
+- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [zapling/mason-conform.nvim](https://github.com/zapling/mason-conform.nvim) - Automatically install formatters registered with conform.nvim via mason.nvim
 - [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) - Low latency typst preview for Neovim
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort
@@ -1088,6 +1089,8 @@
 
 ## markdown 
 
+- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
+- [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [rehype-pretty/rehype-pretty-code](https://github.com/rehype-pretty/rehype-pretty-code) - Beautiful code blocks for Markdown or MDX.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -1167,6 +1170,8 @@
 
 ## neovim 
 
+- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
+- [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) - Low latency typst preview for Neovim
@@ -1305,6 +1310,7 @@
 
 ## others 
 
+- [moeyy01/gh-proxy-go](https://github.com/moeyy01/gh-proxy-go) - 
 - [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
 - [xxlllq/system_architect](https://github.com/xxlllq/system_architect) - :100: 2025年系统架构设计师（软考高级）备考资料。
 - [JulietaUla/Montserrat](https://github.com/JulietaUla/Montserrat) - 
@@ -2066,6 +2072,7 @@
 
 ## vim 
 
+- [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
