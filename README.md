@@ -315,6 +315,7 @@
 
 ## Lua 
 
+- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [zapling/mason-conform.nvim](https://github.com/zapling/mason-conform.nvim) - Automatically install formatters registered with conform.nvim via mason.nvim
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) - Low latency typst preview for Neovim
