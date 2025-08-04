@@ -822,7 +822,7 @@
 - [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings
 - [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
 - [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
-- [servetgulnaroglu/vim-config](https://github.com/servetgulnaroglu/vim-config) - 
+- [tarantino07/vim-config](https://github.com/tarantino07/vim-config) - 
 - [imxiejie/ThinkVim](https://github.com/imxiejie/ThinkVim) - Vim configuration in the 21st century
 - [907th/vim-auto-save](https://github.com/907th/vim-auto-save) - A Vim plugin which saves files to disk automatically.
 - [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
