@@ -1417,7 +1417,7 @@
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [cksac/fake-rs](https://github.com/cksac/fake-rs) - A library for generating fake data in Rust.
-- [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama) - ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
+- [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama) - ChatOllama is an open-source AI chatbot that brings cutting-edge language models to your fingertips while keeping your data private and secure.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) - More than just IM 不只是即时通讯( IM )
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
