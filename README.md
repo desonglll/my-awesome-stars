@@ -286,7 +286,7 @@
 - [DeepReinforcementLearning/DeepReinforcementLearningInAction](https://github.com/DeepReinforcementLearning/DeepReinforcementLearningInAction) - Code from the Deep Reinforcement Learning in Action book from Manning, Inc
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 - [davidADSP/Generative_Deep_Learning_2nd_Edition](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition) - The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [PrestonYU/Natural-Language-Processing-with-Python](https://github.com/PrestonYU/Natural-Language-Processing-with-Python) - Burgeoning Course AI Learning Hub - Natural Language Processing Basics
 - [nlp-with-transformers/notebooks](https://github.com/nlp-with-transformers/notebooks) - Jupyter notebooks for the Natural Language Processing with Transformers book
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
