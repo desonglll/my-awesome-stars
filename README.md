@@ -266,6 +266,7 @@
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [vitozyf/lucky-draw](https://github.com/vitozyf/lucky-draw) - 年会抽奖程序
 - [azu/opml-to-markdown](https://github.com/azu/opml-to-markdown) - [node.js]Convert OPML(Outline) to Markdown
 - [wangtianyu456/vuepress-generateSidebar](https://github.com/wangtianyu456/vuepress-generateSidebar) - vuepress 自动根据pages目录生成sidebar
@@ -666,7 +667,6 @@
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [wtklbm/crm](https://github.com/wtklbm/crm) - Cargo registry manager (Cargo 注册表管理器)，用于方便的管理和更换 Rust 国内镜像源
