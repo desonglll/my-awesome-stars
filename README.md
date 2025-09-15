@@ -229,6 +229,7 @@
 
 ## JavaScript 
 
+- [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
@@ -589,6 +590,8 @@
 
 ## Rust 
 
+- [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
+- [nokyan/resources](https://github.com/nokyan/resources) - Keep an eye on system resources
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [askama-rs/askama](https://github.com/askama-rs/askama) - A template rendering engine based on Jinja, generating type-safe Rust code at compile time.
 - [trymirai/uzu](https://github.com/trymirai/uzu) - A high-performance inference engine for AI models
