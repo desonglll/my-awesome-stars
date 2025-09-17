@@ -23,6 +23,7 @@
 - [bash](#bash)
 - [beginner-project](#beginner-project)
 - [blockchain](#blockchain)
+- [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chatbot](#chatbot)
@@ -210,6 +211,7 @@
 
 ## ai 
 
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [trymirai/uzu](https://github.com/trymirai/uzu) - A high-performance inference engine for AI models
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -343,6 +345,10 @@
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [yunwei37/blockchain-rust](https://github.com/yunwei37/blockchain-rust) - blockchain_go in rust: A simplified blockchain implementation in rust for leaning / 用 rust 从零开始构建区块链(Bitcoin)
 
+## bot 
+
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
+
 ## c 
 
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。
@@ -365,6 +371,7 @@
 
 ## chatgpt 
 
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [davidADSP/Generative_Deep_Learning_2nd_Edition](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition) - The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
@@ -383,6 +390,7 @@
 
 ## chatgpt-api 
 
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 
@@ -792,6 +800,7 @@
 
 ## google 
 
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -1033,6 +1042,8 @@
 
 ## llm 
 
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [trymirai/uzu](https://github.com/trymirai/uzu) - A high-performance inference engine for AI models
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
@@ -1110,6 +1121,7 @@
 
 ## macos 
 
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [Tao93/NetTool](https://github.com/Tao93/NetTool) - macOS 状态栏小工具实时显示网速. macOS menubar tool to monitor network speed.
@@ -2045,6 +2057,7 @@
 
 ## swift 
 
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 - [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
@@ -2056,6 +2069,7 @@
 
 ## swiftui 
 
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [sheshbabu/Chital](https://github.com/sheshbabu/Chital) - A native macOS app for chatting with local LLMs
 - [sk-ruban/CS193p](https://github.com/sk-ruban/CS193p) - 🎒 Stanford University CS193p (SwiftUI) - Spring 2023. Notes & Solutions for Assignments (+ Extra Credit).
 - [underthestars-zhy/IconChanger](https://github.com/underthestars-zhy/IconChanger) - Simply change your app's icon on macOS. Just a click.
