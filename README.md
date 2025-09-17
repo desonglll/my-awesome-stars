@@ -454,6 +454,7 @@
 
 ## Python 
 
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [kaonashi-tyc/zi2zi](https://github.com/kaonashi-tyc/zi2zi) - Learning Chinese Character style with conditional GAN
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
@@ -723,6 +724,7 @@
 
 ## Swift 
 
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [Tao93/NetTool](https://github.com/Tao93/NetTool) - macOS 状态栏小工具实时显示网速. macOS menubar tool to monitor network speed.
