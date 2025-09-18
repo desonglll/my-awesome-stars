@@ -1398,6 +1398,7 @@
 
 ## others 
 
+- [keitabroadwater/gnns_in_action](https://github.com/keitabroadwater/gnns_in_action) - Code and Content for Manning Publication on Graph Neural Networks
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 - [DenisSergeevitch/chatgpt-custom-instructions](https://github.com/DenisSergeevitch/chatgpt-custom-instructions) - My own Prompts for Custom instructions ChatGPT
 - [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Text-audio foundation model from Boson AI
