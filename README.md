@@ -287,6 +287,7 @@
 
 ## Jupyter Notebook 
 
+- [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [NEU502B/neu502b-2025](https://github.com/NEU502B/neu502b-2025) - Code for NEU 502B lab 2025
 - [NEU502B/neu502b-lab](https://github.com/NEU502B/neu502b-lab) - 
 - [DeepReinforcementLearning/DeepReinforcementLearningInAction](https://github.com/DeepReinforcementLearning/DeepReinforcementLearningInAction) - Code from the Deep Reinforcement Learning in Action book from Manning, Inc
