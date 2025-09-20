@@ -727,7 +727,7 @@
 
 ## Swift 
 
-- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini with Nano Banana, Perplexity, OpenRouter, Docker Models, and other API providers
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [Tao93/NetTool](https://github.com/Tao93/NetTool) - macOS 状态栏小工具实时显示网速. macOS menubar tool to monitor network speed.
