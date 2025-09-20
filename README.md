@@ -287,6 +287,7 @@
 
 ## Jupyter Notebook 
 
+- [gcamfer/Anomaly-ReactionRL](https://github.com/gcamfer/Anomaly-ReactionRL) - Using RL for anomaly detection in NSL-KDD
 - [keitabroadwater/gnns_in_action](https://github.com/keitabroadwater/gnns_in_action) - Code and Content for Manning Publication on Graph Neural Networks
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [NEU502B/neu502b-2025](https://github.com/NEU502B/neu502b-2025) - Code for NEU 502B lab 2025
