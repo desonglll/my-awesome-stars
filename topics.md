@@ -1401,6 +1401,7 @@
 
 ## others 
 
+- [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 - [gcamfer/Anomaly-ReactionRL](https://github.com/gcamfer/Anomaly-ReactionRL) - Using RL for anomaly detection in NSL-KDD
 - [keitabroadwater/gnns_in_action](https://github.com/keitabroadwater/gnns_in_action) - Code and Content for Manning Publication on Graph Neural Networks
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
