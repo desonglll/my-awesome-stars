@@ -286,6 +286,7 @@
 
 ## Jupyter Notebook 
 
+- [waimorris/E-GraphSAGE](https://github.com/waimorris/E-GraphSAGE) - A PyTorch implementation of of E-GraphSAGE.
 - [gcamfer/Anomaly-ReactionRL](https://github.com/gcamfer/Anomaly-ReactionRL) - Using RL for anomaly detection in NSL-KDD
 - [keitabroadwater/gnns_in_action](https://github.com/keitabroadwater/gnns_in_action) - Code and Content for Manning Publication on Graph Neural Networks
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
