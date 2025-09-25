@@ -657,6 +657,7 @@
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [matklad/once_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros
 - [yunwei37/blockchain-rust](https://github.com/yunwei37/blockchain-rust) - blockchain_go in rust: A simplified blockchain implementation in rust for leaning / 用 rust 从零开始构建区块链(Bitcoin)
+- [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 - [peshwar9/rust-servers-services-apps](https://github.com/peshwar9/rust-servers-services-apps) - Code for Manning book - Rust Servers, Services and Apps.
 - [rust10x/rust-web-app](https://github.com/rust10x/rust-web-app) - Code template for a production Web Application using Axum: The AwesomeApp Blueprint for Professional Web Development.
 - [rust-lang-cn/book-cn](https://github.com/rust-lang-cn/book-cn) - Rust  程序设计语言 中文版——Chinese translation of The Rust Programming Language (Book)
