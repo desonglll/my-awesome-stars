@@ -67,6 +67,7 @@
 - [electron](#electron)
 - [elixir](#elixir)
 - [emacs](#emacs)
+- [embedded](#embedded)
 - [ember](#ember)
 - [emoji](#emoji)
 - [english](#english)
@@ -704,6 +705,10 @@
 ## emacs 
 
 - [emacs-china/Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
+
+## embedded 
+
+- [Infineon/svd2pac](https://github.com/Infineon/svd2pac) - Repository will contain a tool to generate Peripheral Access Crates in Rust.
 
 ## ember 
 
@@ -1513,7 +1518,6 @@
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [HiPhish/rainbow-delimiters.nvim](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters for Neovim with Tree-sitter
 - [BartMassey/gc2024-rust-embedded-workshop](https://github.com/BartMassey/gc2024-rust-embedded-workshop) - GOSIM CHINA 2024 Rust Embedded Workshop
-- [Infineon/svd2pac](https://github.com/Infineon/svd2pac) - Repository will contain a tool to generate Peripheral Access Crates in Rust.
 - [tensorflow/tflite-micro](https://github.com/tensorflow/tflite-micro) - Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).
 - [life888888/cjk-fonts-ttf](https://github.com/life888888/cjk-fonts-ttf) - Provide Noto Sans CJK, Noto Sans Mono CJK, Noto Serif CJK TTF. 4 Style (Regular, Bold, Italic, BoldItalic)
 - [GooseCoding/utilsbox](https://github.com/GooseCoding/utilsbox) - 一个程序员常用的工具库，好用且无广告
