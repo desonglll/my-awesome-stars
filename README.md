@@ -272,6 +272,7 @@
 - [azu/opml-to-markdown](https://github.com/azu/opml-to-markdown) - [node.js]Convert OPML(Outline) to Markdown
 - [wangtianyu456/vuepress-generateSidebar](https://github.com/wangtianyu456/vuepress-generateSidebar) - vuepress 自动根据pages目录生成sidebar
 - [KyleBing/wubi-dict-editor-web](https://github.com/KyleBing/wubi-dict-editor-web) - 五笔码表助手 web 版，五笔工具
+- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [TechXueXi/techxuexi-js](https://github.com/TechXueXi/techxuexi-js) - 油猴等插件的 学习强国 js 代码 45分/天
 - [imageslr/weapp-library](https://github.com/imageslr/weapp-library) - “在线借书平台”微信小程序：连接读者与图书馆的借书平台、读者的图书资料库与书单系统。30+ 页面，多个可复用组件，微信小程序开发入门。提供本地 mock server 解决方案。
 - [mindskip/xzs](https://github.com/mindskip/xzs) - 在线考试系统
@@ -861,7 +862,6 @@
 - [jamebal/jmal-cloud-view](https://github.com/jamebal/jmal-cloud-view) - JmalCloud It's a private cloud storage project that makes it simple and secure to manage your files in the cloud. JmalCloud 是一款私有云存储网盘项目，能够简单安全管理您的云端文件
 - [xiaoli1999/custom-avatar](https://github.com/xiaoli1999/custom-avatar) - 快速定制中国传统节日头像，国庆国旗头像。customize avatars for traditional Chinese festivals such as National Day, Mid-Autumn Festival, and Spring Festival."
 - [Anrunlu/zx-stu-frontend](https://github.com/Anrunlu/zx-stu-frontend) - 知新教学平台学生端
-- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [fjykTec/ModernWMS](https://github.com/fjykTec/ModernWMS) - The open source simple and complete warehouse management system is derived from our many years of experience in implementing erp projects. We stripped the original commercial system wms function and o
 - [Moking1997/vitepress-blog](https://github.com/Moking1997/vitepress-blog) - 
 - [Jimmylxue/blog](https://github.com/Jimmylxue/blog) - jimmy的个人博客和知识的在线文档，在线访问：https://www.jimmyxuexue.top/
