@@ -1628,7 +1628,7 @@
 - [kaieye/2022-Machine-Learning-Specialization](https://github.com/kaieye/2022-Machine-Learning-Specialization) - 
 - [senchiiry/Postgraduate_CS_kaoyan](https://github.com/senchiiry/Postgraduate_CS_kaoyan) - 一战11408计算机考研失败经历总结（含部分初复试资料心得、调剂历程等）
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
-- [phodal/auto-dev](https://github.com/phodal/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard（AI  驱动编程助手）with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Docu
+- [phodal/auto-dev](https://github.com/phodal/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard（AI  驱动编程助手）agent,  One Platform. All Phases. Every Device.
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [indently/five_decorators](https://github.com/indently/five_decorators) - Five useful decorators to inspire your code in Python.
