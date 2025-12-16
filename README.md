@@ -683,7 +683,7 @@
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [wtklbm/crm](https://github.com/wtklbm/crm) - Cargo registry manager (Cargo 注册表管理器)，用于方便的管理和更换 Rust 国内镜像源
@@ -744,7 +744,7 @@
 - [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
 - [sk-ruban/CS193p](https://github.com/sk-ruban/CS193p) - 🎒 Stanford University CS193p (SwiftUI) - Spring 2023. Notes & Solutions for Assignments (+ Extra Credit).
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. 轻灵的 Markdown 笔记本伴你写出妙言
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [underthestars-zhy/IconChanger](https://github.com/underthestars-zhy/IconChanger) - Simply change your app's icon on macOS. Just a click.
 - [GaiZhenbiao/ChuanhuWallpaper](https://github.com/GaiZhenbiao/ChuanhuWallpaper) - A GUI for Wallpapper, generates dynamic wallpapers for macOS
