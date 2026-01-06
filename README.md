@@ -426,7 +426,7 @@
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [jackfrued/git-tips](https://github.com/jackfrued/git-tips) - :trollface:Git的奇技淫巧
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-- [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
+- [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 - [sunzsh/favoritesWorkflow4Alfred](https://github.com/sunzsh/favoritesWorkflow4Alfred) - 
 - [sisterAn/JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms) - 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系
 - [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
@@ -835,7 +835,7 @@
 - [antdv-pro/antdv-pro](https://github.com/antdv-pro/antdv-pro) - An antdv-based middle and background management system
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [antvis/G2Plot](https://github.com/antvis/G2Plot) - :dango:  An interactive and responsive charting library based on G2.
-- [BSCsmartdev/Fourmeme-Sniper-Trading-Bot](https://github.com/BSCsmartdev/Fourmeme-Sniper-Trading-Bot) - BSC Fourmeme Trading Bot-A FourMeme Sniper Bot https://t.me/BSCsmartdev | Fourmeme Sniper Bot | Fourmeme Trading Bot | Fourmeme Sniper Bot | Fourmeme Trading Bot | Fourmeme Sniper Bot | Fourmeme Tradi
+- [BSCsmartdev/Polymarket-Copy-Trading-Bot](https://github.com/BSCsmartdev/Polymarket-Copy-Trading-Bot) - Polymarket Copy Trading Bot https://t.me/SmartLead007
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 - [turkyden/lizhi](https://github.com/turkyden/lizhi) - 🎸 李志音乐播放器，跨平台支持 Web / Mac / Windows / Linux
