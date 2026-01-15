@@ -1740,7 +1740,6 @@
 - [wmathor/Postgraduate-Advanced-Mathematics](https://github.com/wmathor/Postgraduate-Advanced-Mathematics) - 考研高等数学复习笔记（停止更新）
 - [ricolxwz/Kaoyanshuxue](https://github.com/ricolxwz/Kaoyanshuxue) - 考研数学二LaTeX
 - [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) - Website with comprehensive comparisons, histories, and other information across many areas of computing and technology.
-- [QianJianTech/LaTeXLive](https://github.com/QianJianTech/LaTeXLive) - LateX公式编辑器-妈叔出品
 - [bill-xia/hexo-theme-mashiro](https://github.com/bill-xia/hexo-theme-mashiro) - CTeX-like Hexo theme.
 - [sfdhchg/-](https://github.com/sfdhchg/-) - 
 - [erwanjun/weixin_tuisong](https://github.com/erwanjun/weixin_tuisong) - 基于猪咪不是猪老哥制作的微信公众号推送教程
