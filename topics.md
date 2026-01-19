@@ -1714,7 +1714,7 @@
 - [JavScraper/Emby.Plugins.JavScraper](https://github.com/JavScraper/Emby.Plugins.JavScraper) - Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。
 - [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files) - 
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [BSCsmartdev/polymarket-copy-trading-bot](https://github.com/BSCsmartdev/polymarket-copy-trading-bot) - polymarekt copy trading bot,polymarekt copy trading bot,polymarekt copy trading bot,polymarekt copy trading bot,polymarekt copy trading bot,polymarekt copy trading bot,polymarekt copy trading bot,poly
+- [BSCsmartdev/polymarket-copy-trading-bot](https://github.com/BSCsmartdev/polymarket-copy-trading-bot) - polymarket bot https://t.me/smartlead007 polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy tra
 - [907th/vim-auto-save](https://github.com/907th/vim-auto-save) - A Vim plugin which saves files to disk automatically.
 - [Soanguy/typora-theme-autumnus](https://github.com/Soanguy/typora-theme-autumnus) - Typora theme for 中文
 - [BillRaymond/install-jekyll-apple-silicon](https://github.com/BillRaymond/install-jekyll-apple-silicon) - 
