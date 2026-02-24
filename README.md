@@ -187,7 +187,7 @@
 - [BartMassey/gc2024-rust-embedded-workshop](https://github.com/BartMassey/gc2024-rust-embedded-workshop) - GOSIM CHINA 2024 Rust Embedded Workshop
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [lehongwen/awesome-edge-computing](https://github.com/lehongwen/awesome-edge-computing) - 边缘计算工程，从边缘计算概念、标准、软件系统、工程到商业应用。
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [zhengqingya/docker-compose](https://github.com/zhengqingya/docker-compose) - 通过docker-compose编排一系列环境进行一键快速部署运行，小白运维神器。
 - [youridol/DecrypeMusic](https://github.com/youridol/DecrypeMusic) - 音乐解锁：移除已购音乐的加密保护。 目前支持网易云音乐(ncm)、QQ音乐(qmc, mflac, tkm, ogg) 。
 - [Ehco1996/Python-crawler](https://github.com/Ehco1996/Python-crawler) - 从头开始 系统化的 学习如何写Python爬虫。 Python版本 3.6
