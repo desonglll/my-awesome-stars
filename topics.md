@@ -74,6 +74,7 @@
 - [emoji](#emoji)
 - [english](#english)
 - [ethereum](#ethereum)
+- [fastapi](#fastapi)
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -771,6 +772,11 @@
 ## ethereum 
 
 - [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install, run and deploy your own decentralized AI agent service
+
+## fastapi 
+
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 
 ## firefox 
 
