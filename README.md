@@ -836,7 +836,7 @@
 - [antvis/G2Plot](https://github.com/antvis/G2Plot) - :dango:  An interactive and responsive charting library based on G2.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
-- [turkyden/lizhi](https://github.com/turkyden/lizhi) - 🎸 李志音乐播放器，跨平台支持 Web / Mac / Windows / Linux
+- [turkyden/lizhi](https://github.com/turkyden/lizhi) - 🎸 李志 Agent 音乐播放器，跨平台支持 Web / Mac / Windows / Linux
 - [liyupi/yulegeyu](https://github.com/liyupi/yulegeyu) - 羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn
 - [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 🎨 This is the repo for vuepress-theme-reco 2.
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
