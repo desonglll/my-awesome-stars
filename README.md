@@ -363,6 +363,7 @@
 
 ## Markdown 
 
+- [benben17/linux-command](https://github.com/benben17/linux-command) - Linux Command Encyclopedia & Search Tool: Manuals, Detailed Explanations, Learning, and Collections.
 - [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [doongz/notes](https://github.com/doongz/notes) - 算法｜技能｜知识｜数学
