@@ -229,6 +229,7 @@
 
 ## JavaScript 
 
+- [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
 - [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan 多功能面板
 - [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
@@ -462,6 +463,7 @@
 
 ## Python 
 
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [dimtoneff/ComfyUI-PixelArt-Detector](https://github.com/dimtoneff/ComfyUI-PixelArt-Detector) - Generate, downscale, change palletes and restore pixel art images with SDXL. Nodes for Astropulse/pixeldetector, Palette Loader from Image, Grid view for palettes etc.
 - [muyen/meihua-yishu](https://github.com/muyen/meihua-yishu) - 梅花易數 - 適用於 Claude、ChatGPT、Gemini、DeepSeek 等 AI/LLM 的占卜技能
 - [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
