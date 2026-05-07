@@ -464,6 +464,7 @@
 
 ## Python 
 
+- [daifukusensei/rp2350a-keyboard-interceptor](https://github.com/daifukusensei/rp2350a-keyboard-interceptor) - A USB keyboard pass-through device built on the Waveshare RP2350-USB-A and CircuitPython for intercepting and taking action on specific keystrokes, and/or re-mapping of keys
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [dimtoneff/ComfyUI-PixelArt-Detector](https://github.com/dimtoneff/ComfyUI-PixelArt-Detector) - Generate, downscale, change palletes and restore pixel art images with SDXL. Nodes for Astropulse/pixeldetector, Palette Loader from Image, Grid view for palettes etc.
 - [muyen/meihua-yishu](https://github.com/muyen/meihua-yishu) - 梅花易數 - 適用於 Claude、ChatGPT、Gemini、DeepSeek 等 AI/LLM 的占卜技能
