@@ -1919,6 +1919,7 @@
 
 ## python 
 
+- [daifukusensei/rp2350a-keyboard-interceptor](https://github.com/daifukusensei/rp2350a-keyboard-interceptor) - A USB keyboard pass-through device built on the Waveshare RP2350-USB-A and CircuitPython for intercepting and taking action on specific keystrokes, and/or re-mapping of keys
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
