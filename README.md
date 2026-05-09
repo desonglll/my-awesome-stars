@@ -182,6 +182,7 @@
 
 ## HTML 
 
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
 - [xxlllq/system_architect](https://github.com/xxlllq/system_architect) - :100: 2026年系统架构设计师（软考高级）备考资料。
 - [tech-shrimp/grok-playground](https://github.com/tech-shrimp/grok-playground) - 【技术爬爬虾】10秒部署一个Grok3国内镜像网站，支持多账户聚合，单账户额度不够可秒换账号。
 - [netnr/kms](https://github.com/netnr/kms) - KMS 激活服务，slmgr 命令激活 Windows 系统、Office
