@@ -148,6 +148,7 @@
 
 ## Emacs Lisp 
 
+- [nex3/perspective-el](https://github.com/nex3/perspective-el) - Perspectives for Emacs.
 - [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 
