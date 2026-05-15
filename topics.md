@@ -1569,6 +1569,7 @@
 
 ## others 
 
+- [nex3/perspective-el](https://github.com/nex3/perspective-el) - Perspectives for Emacs.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [1letzgo/stashy](https://github.com/1letzgo/stashy) - 
