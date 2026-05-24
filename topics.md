@@ -665,6 +665,7 @@
 - [ibaiGorordo/Sapiens-Pytorch-Inference](https://github.com/ibaiGorordo/Sapiens-Pytorch-Inference) - Minimal code and examnples for inferencing Sapiens foundation human models in Pytorch
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [nndl/nndl-practice](https://github.com/nndl/nndl-practice) - 邱锡鹏《神经网络与深度学习：案例与实践》PyTorch / PaddlePaddle 实现
 - [roatienza/Deep-Learning-Experiments](https://github.com/roatienza/Deep-Learning-Experiments) - Videos, notes and experiments to understand deep learning
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
@@ -1111,6 +1112,7 @@
 ## jupyter-notebook 
 
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
+- [nndl/nndl-practice](https://github.com/nndl/nndl-practice) - 邱锡鹏《神经网络与深度学习：案例与实践》PyTorch / PaddlePaddle 实现
 
 ## kotlin 
 
@@ -1685,7 +1687,6 @@
 - [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD) - 
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [peshwar9/rust-servers-services-apps](https://github.com/peshwar9/rust-servers-services-apps) - Code for Manning book - Rust Servers, Services and Apps.
-- [nndl/nndl-practice](https://github.com/nndl/nndl-practice) - exercise for nndl
 - [rust10x/rust-web-app](https://github.com/rust10x/rust-web-app) - Code template for a production Web Application using Axum: The AwesomeApp Blueprint for Professional Web Development.
 - [dolbydu/font](https://github.com/dolbydu/font) - 
 - [adobe-fonts/source-serif](https://github.com/adobe-fonts/source-serif) - Typeface for setting text in many sizes, weights, and languages. Designed to complement Source Sans.
@@ -2006,6 +2007,7 @@
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready
 - [ibaiGorordo/Sapiens-Pytorch-Inference](https://github.com/ibaiGorordo/Sapiens-Pytorch-Inference) - Minimal code and examnples for inferencing Sapiens foundation human models in Pytorch
+- [nndl/nndl-practice](https://github.com/nndl/nndl-practice) - 邱锡鹏《神经网络与深度学习：案例与实践》PyTorch / PaddlePaddle 实现
 - [roatienza/Deep-Learning-Experiments](https://github.com/roatienza/Deep-Learning-Experiments) - Videos, notes and experiments to understand deep learning
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [Jack-Cherish/Deep-Learning](https://github.com/Jack-Cherish/Deep-Learning) - :computer:深度学习实战：手写数字识别、Discuz验证码识别、垃圾分类、语义分割
