@@ -1194,7 +1194,7 @@
 
 ## llm 
 
-- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-R1, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Gemma4, Llava, Phi
+- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Gemma4, Llava, Phi
 - [muyen/meihua-yishu](https://github.com/muyen/meihua-yishu) - 梅花易數 - 適用於 Claude、ChatGPT、Gemini、DeepSeek 等 AI/LLM 的占卜技能
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
