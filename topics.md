@@ -859,6 +859,7 @@
 
 ## font 
 
+- [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
