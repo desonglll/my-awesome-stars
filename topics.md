@@ -1605,6 +1605,7 @@
 
 ## others 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [skier233/nsfw_ai_model_server](https://github.com/skier233/nsfw_ai_model_server) - 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
