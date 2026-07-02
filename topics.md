@@ -1611,6 +1611,7 @@
 
 ## others 
 
+- [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
 - [twostraws/SwiftData-Agent-Skill](https://github.com/twostraws/SwiftData-Agent-Skill) - SwiftData agent skill for Claude Code, Codex, and other AI tools.
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [stg-annon/StashScripts](https://github.com/stg-annon/StashScripts) - 
