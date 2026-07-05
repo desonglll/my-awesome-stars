@@ -149,6 +149,7 @@
 
 ## Emacs Lisp 
 
+- [rnkn/olivetti](https://github.com/rnkn/olivetti) - Emacs minor mode to automatically balance window margins
 - [bbatsov/projectile](https://github.com/bbatsov/projectile) - Project Interaction Library for Emacs
 - [nex3/perspective-el](https://github.com/nex3/perspective-el) - Perspectives for Emacs.
 - [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
