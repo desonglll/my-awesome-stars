@@ -326,6 +326,7 @@
 
 ## android 
 
+- [damontecres/StashAppAndroidTV](https://github.com/damontecres/StashAppAndroidTV) - Android/Fire TV App for Stash
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1626,6 +1627,7 @@
 
 ## others 
 
+- [twostraws/Swift-Concurrency-Agent-Skill](https://github.com/twostraws/Swift-Concurrency-Agent-Skill) - Swift Concurrency agent skill for Claude Code, Codex, and other AI tools.
 - [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
 - [twostraws/SwiftData-Agent-Skill](https://github.com/twostraws/SwiftData-Agent-Skill) - SwiftData agent skill for Claude Code, Codex, and other AI tools.
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
