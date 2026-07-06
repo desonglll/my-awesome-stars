@@ -431,7 +431,7 @@
 - [crownpku/Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP) - A curated list of resources for Chinese NLP 中文自然语言处理相关资料
 - [runningcheese/MirrorSite](https://github.com/runningcheese/MirrorSite) - 镜像网站合集
 - [SniperGER/iOS-Wallpapers](https://github.com/SniperGER/iOS-Wallpapers) - An archive of every iOS wallpaper officially released by Apple
-- [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan) - 机场推荐与机场评测
+- [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan) - 2026机场推荐与机场评测
 - [MDsub/mdsub.top](https://github.com/MDsub/mdsub.top) - repo for mdsub.top. powered by vitepress, host on cloudflare pages
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
