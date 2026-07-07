@@ -168,7 +168,7 @@
 - [go-musicfox/go-musicfox](https://github.com/go-musicfox/go-musicfox) - go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
 - [cnk3x/xunlei](https://github.com/cnk3x/xunlei) - 提取自群晖平台的迅雷下载套件，用在其他Linux机器上的迅雷远程下载服务
 - [xbapps/xbvr](https://github.com/xbapps/xbvr) - Tool to organize and stream your VR porn library
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)
 - [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
 - [moeyy01/gh-proxy-go](https://github.com/moeyy01/gh-proxy-go) - 
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
