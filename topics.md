@@ -1706,7 +1706,7 @@
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 - [zzr-idam/UVM-Net](https://github.com/zzr-idam/UVM-Net) - U-shaped Vision Mamba for Single Image Dehazing
 - [eliheuer/bezy](https://github.com/eliheuer/bezy) - A font editor built with Bevy
-- [Steven-Zhl/YNU_IST_Courses](https://github.com/Steven-Zhl/YNU_IST_Courses) - 云南大学 信息学院 智能科学与技术 课程资源
+- [Steven-Zhl/ynu-ist-courses](https://github.com/Steven-Zhl/ynu-ist-courses) - 云南大学 信息学院 智能科学与技术 课程资源
 - [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
