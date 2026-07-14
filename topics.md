@@ -1633,6 +1633,7 @@
 
 ## others 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [twostraws/Swift-Concurrency-Agent-Skill](https://github.com/twostraws/Swift-Concurrency-Agent-Skill) - Swift Concurrency agent skill for Claude Code, Codex, and other AI tools.
 - [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
 - [twostraws/SwiftData-Agent-Skill](https://github.com/twostraws/SwiftData-Agent-Skill) - SwiftData agent skill for Claude Code, Codex, and other AI tools.
