@@ -530,7 +530,6 @@
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [hyunwoongko/transformer](https://github.com/hyunwoongko/transformer) - Transformer: PyTorch Implementation of "Attention Is All You Need"
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
@@ -670,6 +669,7 @@
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [YuniqueUnic/cargo-thanku](https://github.com/YuniqueUnic/cargo-thanku) - cargo-thanku | Rust Dependency Acknowledgment Generator 🦀 ❤️‍🔥 Enhanced cargo-thanks, give an Acknowledgment to your rust project for thanks. Automatically generate polished acknowledgments for your R
