@@ -18,6 +18,7 @@
 - [EJS](#ejs)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
+- [Fluent](#fluent)
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
@@ -153,6 +154,10 @@
 - [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
 - [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
 ## GLSL 
 
 - [sixthsurge/photon](https://github.com/sixthsurge/photon) - A gameplay-focused shader pack for Minecraft
@@ -210,7 +215,6 @@
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) - Website with comprehensive comparisons, histories, and other information across many areas of computing and technology.
 - [huangyz0918/personal-page-blog](https://github.com/huangyz0918/personal-page-blog) - personal blog 🕶
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [Erxionglsx/Erxionglsx.github.io](https://github.com/Erxionglsx/Erxionglsx.github.io) - 我是二雄，为了更好的复习和理解所学的知识，将自己在视频网站和博客所学知识摘抄总结成了笔记。
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 
