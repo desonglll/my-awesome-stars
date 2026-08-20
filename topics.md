@@ -1773,7 +1773,7 @@
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone) - 线性代数：未竟之美
 - [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD) - 
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+- [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [peshwar9/rust-servers-services-apps](https://github.com/peshwar9/rust-servers-services-apps) - Code for Manning book - Rust Servers, Services and Apps.
 - [rust10x/rust-web-app](https://github.com/rust10x/rust-web-app) - Code template for a production Web Application using Axum: The AwesomeApp Blueprint for Professional Web Development.
 - [dolbydu/font](https://github.com/dolbydu/font) - 
