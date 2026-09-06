@@ -294,6 +294,7 @@
 - [azu/opml-to-markdown](https://github.com/azu/opml-to-markdown) - [node.js]Convert OPML(Outline) to Markdown
 - [wangtianyu456/vuepress-generateSidebar](https://github.com/wangtianyu456/vuepress-generateSidebar) - vuepress 自动根据pages目录生成sidebar
 - [KyleBing/wubi-dict-editor-web](https://github.com/KyleBing/wubi-dict-editor-web) - 五笔码表助手 web 版，五笔工具
+- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [TechXueXi/techxuexi-js](https://github.com/TechXueXi/techxuexi-js) - 油猴等插件的 学习强国 js 代码 45分/天
 - [imageslr/weapp-library](https://github.com/imageslr/weapp-library) - “在线借书平台”微信小程序：连接读者与图书馆的借书平台、读者的图书资料库与书单系统。30+ 页面，多个可复用组件，微信小程序开发入门。提供本地 mock server 解决方案。
 - [mindskip/xzs](https://github.com/mindskip/xzs) - 在线考试系统
@@ -320,7 +321,7 @@
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 - [ibaiGorordo/Sapiens-Pytorch-Inference](https://github.com/ibaiGorordo/Sapiens-Pytorch-Inference) - Minimal code and examnples for inferencing Sapiens foundation human models in Pytorch
 - [Visualize-ML/Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning) - Book_7_《机器学习》 |   鸢尾花书：从加减乘除到机器学习；欢迎批评指正
-- [nndl/nndl-practice](https://github.com/nndl/nndl-practice) - 邱锡鹏《神经网络与深度学习：案例与实践》PyTorch 实现
+- [nndl/nndl-practice](https://github.com/nndl/nndl-practice) - 《神经网络与深度学习：案例与实践》第二版：10 章 PyTorch 实践、Notebook、测试与电子书。
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [roatienza/Deep-Learning-Experiments](https://github.com/roatienza/Deep-Learning-Experiments) - Videos, notes and experiments to understand deep learning
 - [Bai1026/FAI](https://github.com/Bai1026/FAI) - Foundation of Artificial Intelligence(CSIE3005) at National Taiwan University (NTU)
@@ -939,7 +940,6 @@
 - [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 - [xiaoli1999/custom-avatar](https://github.com/xiaoli1999/custom-avatar) - 快速定制中国传统节日头像，国庆国旗头像。customize avatars for traditional Chinese festivals such as National Day, Mid-Autumn Festival, and Spring Festival."
 - [Anrunlu/zx-stu-frontend](https://github.com/Anrunlu/zx-stu-frontend) - 知新教学平台学生端
-- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [fjykTec/ModernWMS](https://github.com/fjykTec/ModernWMS) - The open source simple and complete warehouse management system is derived from our many years of experience in implementing erp projects. We stripped the original commercial system wms function and o
 - [Moking1997/vitepress-blog](https://github.com/Moking1997/vitepress-blog) - 
 - [Jimmylxue/blog](https://github.com/Jimmylxue/blog) - jimmy的个人博客和知识的在线文档，在线访问：https://www.jimmyxuexue.top/
