@@ -1044,7 +1044,6 @@
 
 ## hacktoberfest 
 
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
