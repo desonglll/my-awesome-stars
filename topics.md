@@ -1939,7 +1939,6 @@
 - [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [shaojintian/Best_README_template](https://github.com/shaojintian/Best_README_template) - 🌩最好的中文README模板⚡️Best README template
-- [vfbiby/dotfiles](https://github.com/vfbiby/dotfiles) - 
 - [wzpan/hexo-generator-search](https://github.com/wzpan/hexo-generator-search) - A plugin to generate search data for Hexo.
 - [KelvinQiu802/project-ideas](https://github.com/KelvinQiu802/project-ideas) - 集合优质的项目仓库，找到适合你的项目。
 - [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 🎨 This is the repo for vuepress-theme-reco 2.
