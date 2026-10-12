@@ -778,7 +778,6 @@
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [NeuralNine/config-files](https://github.com/NeuralNine/config-files) - A collection of my config files.
-- [vfbiby/dotfiles](https://github.com/vfbiby/dotfiles) - 
 
 ## Stylus 
 
