@@ -153,6 +153,7 @@
 
 ## Emacs Lisp 
 
+- [nordtheme/emacs](https://github.com/nordtheme/emacs) - An arctic, north-bluish clean and elegant Emacs theme.
 - [radian-software/prescient.el](https://github.com/radian-software/prescient.el) - ☄️ Simple but effective sorting and filtering for Emacs.
 - [radian-software/selectrum](https://github.com/radian-software/selectrum) - 🔔 Better solution for incremental narrowing in Emacs.
 - [noctuid/general.el](https://github.com/noctuid/general.el) - More convenient key definitions in emacs
